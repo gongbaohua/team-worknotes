@@ -2,21 +2,25 @@
 
 ## Contents
 
-[Harold.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Harold.Duan)
++ [2019](/2019 '2019')
+  + [JAN's.](/2019/1.todo 'January')
+  + [FEB's.](/2019/2.todo 'February')
+  + [MAR's.](/2019/3.todo 'March')
+  + [APR's.](/2019/4.todo 'April')
+  + [MAY's.](/2019/5.todo 'May')
+  + [JUN's.](/2019/6.todo 'June')
+  + [JUL's.](/2019/7.todo 'July')
+  + [AUG's.](/2019/8.todo 'August')
+  + [SEP's.](/2019/9.todo 'September')
+  + [OCT's.](/2019/10.todo 'October')
+  + [NOV's.](/2019/11.todo 'November')
+  + [DEC's.](/2019/12.todo 'December')
 
-[Pancy.Fan's Notes](https://github.com/EDITeam/team-worknotes/tree/Pancy.Fan)
+## Author
+<p align="left">
+<a href="https://github.com/haroldduan"><img src="https://avatars2.githubusercontent.com/u/16353458?s=400&v=4" width="70" alt="Harold.Duan" /></a>
+</p>
 
-[Aaton.Kang's Notes](https://github.com/EDITeam/team-worknotes/tree/Aaton.Kang)
-
-[Shuo.Liu's Notes](https://github.com/EDITeam/team-worknotes/tree/Shuo.Liu)
-
-[Coffee.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Coffee.Wang)
-
-[Crystal.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Crystal.Duan)
-
-[Zero.Zhang's Notes](https://github.com/EDITeam/team-worknotes/tree/Zero.Zhang)
-
-[Abe.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Abe.Wang)
 
 ## Teamers
 
