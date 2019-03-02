@@ -2,7 +2,7 @@
 
 ## Contents
 
-[Harold.Duan's Notes](/tree/Harold.Duan)
+[Harold.Duan's Notes](../../tree/Harold.Duan)
 
 [Pancy.Fan's Notes](/tree/Pancy.Fan)
 
