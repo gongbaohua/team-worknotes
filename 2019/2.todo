@@ -1,0 +1,37 @@
+/*
+@title: work notes in February
+@author: harold.duan
+@date: 19-02-01
+@memo: tasks logging
+*/
+
+Todo 1st week:
+
+Todo 2nd week:
+
+Todo 3rd week:
+✔ presales addon deployment @high @author Robert.Yu @created(19-02-15 13:00) @done(19-02-18 20:13)
+✔ project Hangpeng EquipmentManagement addon deployment @critical @author Gary.Li @created(19-02-15 15:15) @done(19-02-17 23:19)
+✔ writting documents of department Year-19 planning and core team's goals @critical @created(19-02-16 13:20) @done(19-02-16 17:07)
+✔ developing projects personnel planning arrangements @critical @created(19-02-16 13:35) @started(19-02-16 17:08) @done(19-02-20 10:54) @lasted(3d17h46m44s)
+✔ core team monthy work planning meeting and annual work planning meeting @critical @author Pancy.Fan&Aato.Kang @created(19-02-18 17:00) @done(19-02-18 17:59)
+
+Todo 4th week:
+✔ product owner work planning meeting and annual goals meeting @critical @author Pancy.Fan&Aaton.Kang&Shuo.Liu @created(19-02-18 10:30) @done(19-02-20 17:47)
+✔ project Guoan-Egou ITP meeting @critical @author Ocean.Li&Anymeng.Meng&Sherry.Xie @date 19-02-21 @created(19-02-20 11:12) @done(19-02-21 14:45)
+✔ project FANUC-Beijing communication meeting @critical @author Leon.Li&Robert.Yu&Gary.Li @date 19-02-20 @created(19-02-20 17:55) @done(19-02-20 18:27)
+☐ project Luray error process meeting @critical @author @date 19-02-23 Shuo.Liu @created(19-02-20 18:22)
+✔ company management meeting @critical @author Steven.Hu&Leon.Li&Robert.Yu.Ocean.Li&Michael.Zhao @created(19-02-20 18:25) @done(19-02-23 16:15)
+✔ project Lidakang developing environment deploy & communication meeting about addons @critical @author Anymeng.Meng @created(19-02-21 16:33) @done(19-02-21 18:00)
+✔ project Cambricon communication meeting @critical @author Anymeng.Meng @created(19-02-22 10:00) @done(19-02-22 13:30)
+✔ project Hangpeng EquipmentManagement addon error processing @critical @date 19-02-22 @created(19-02-22 10:15) @done(19-02-23 14:00)
+
+Todo 5th week:
+✔ project FANUC-Beijing API developing document writting @critical @author Pancy.Fan&Gary.Li @created(19-02-24 10:17) @done(19-02-24 17:43)
+☐ project Lidakang addon developing @critical @created(19-02-23 15:48) @started(19-02-25 10:00)
+☐ Gogs Server and devopling-test&demo server purchase planning @critical @author Leon.Li&Tony.Wang @created(19-02-25 16:19)
+☐ core team work planning and action route meeting @critical @author Pancy.Fan&Aaton.Kang&Shuo.Liu @created(19-02-25 16:21)
+✘ project FANUC-Beijing developing requirements meeting @high @author Robert.Yu&Gary.Li @created(19-02-25 16:23) @cancelled(19-02-27 19:01)
+✔ R&D manpower requirement documents writting,base Beijing @critical @created(19-02-25 17:00) @done(19-02-25 17:05)
+☐ project Aussco error processing @critical @created(19-02-25 17:30)
+✔ project CK addon upgrade and API developing planning meeting @critical @author Bob.Bao&Wines.Zhang @created(19-02-26 09:00) @done(19-02-26 11:10)

@@ -1,0 +1,52 @@
+/*
+@title: work notes in January
+@author: harold.duan
+@date: 19-01-01
+@memo: tasks logging
+*/
+
+Todo 1st week:
+✔ project EDF slary addon fixing bug meeting @author Ocean.Li @date 19-01-02 @critical @created(19-01-02 10:00) @done(19-01-02 12:15)
+✔ project YSYJ OrderReconciliation optimization meeting @author Aatom.Kang&Shuo.Liu @critical @created(19-01-02 14:30) @done(19-01-02 15:30)
+✔ new employee SBO SDK training @critical @author Kris.Jiao @date 19-01-02 @created(19-01-02 16:00) @started(19-01-02 16:00) @done(19-01-22 14:14) @lasted(2w5d22h14m5s)
+✔ department B1 development testing server upgrade @critical @created(19-01-03 18:35) @done(19-01-03 18:56)
+✔ project ChemChina BlueStart API development meeting @critical @author Ocean.Li @date 19-01-04 @created(19-01-02 15:33) @done(19-01-02 17:00)
+✔ project Luray error processing @author Jeack.Wang @critical @date 19-01-02 @created(19-01-02 15:37) @done(19-01-03 18:33)
+✔ project YSYJ OrderReconciliation optimization meeting @author Aatom.Kang&Shuo.Liu @date 19-01-05 @created(19-01-05 10:00) @done(19-01-05 18:00)
+
+Todo 2nd week:
+✔ production function developing meeting @high @author Vic.Zhang&Robert.Yu @created(19-01-06 14:00) @done(19-01-06 15:30)
+✔ project Lidakang ITP meeting @author Anymeng.Meng @date 19-01-07 @critical @created(19-01-02 15:36) @done(19-01-07 18:00)
+✔ production function development 2nd meeting @author Vic.Zhang&Roberr.Yu @date 19-01-08 @created(19-01-07 14:14) @done(19-01-08 16:30)
+✘ department cloud server management rules and methods @critical @author Tony.wang @date 19-01-07 @created(19-01-03 18:59) @cancelled(19-01-11 18:29)
+✔ project YSYJ OrderReconciliation optimization meeting @author Aatom.Kang&Shuo.Liu @date 19-01-09 @created(19-01-09 16:00) @done(19-01-09 18:00)
+✔ project E-toon development traning @critical @date 19-01-10 @created(19-01-07 14:07) @started(19-01-10 10:30) @done(19-01-10 16:50) @lasted(6h20m)
+✔ 2018 annual summarize debriefing meeting @created(19-01-10 18:15) @done(19-01-11 15:11)
+✔ project ChemChina BlueStart API development meeting @critical @author Ocean.Li @date 19-01-11 @created(19-01-11 15:14) @done(19-01-11 17:31)
+✔ project Lidakang app show meeting @author Vic.Zhang @high @date 19-01-12 @created(19-01-10 16:39) @done(19-01-12 17:00)
+✔ AngularJS view style layout design discussing @critical @author Aaton.Kang @created(19-01-11 17:00) @done(19-01-11 18:27)
+
+Todo 3rd week:
+✔ 2018 annual summarize debriefing meeting @critical @created(19-01-13 10:15) @started(19-01-13 10:20) @done(19-01-13 18:20) @lasted(8h)
+✔ employee management method & styles summary @critical @created(19-01-13 12:30) @started(19-01-13 12:30) @done(19-01-17 21:22) @lasted(4d8h52m1s)
+✔ project Inspur requires evaluating @created(19-01-14 10:30) @done(19-01-14 11:30)
+✔ team BI developing direction and work planning meeting @critical @author Steven.Hu&Lucifer.Liu @created(19-01-15 10:30) @done(19-01-15 12:15)
+✔ project ChemChina BlueStar API development meeting @critical @author Ocean.Li @created(19-01-15 13:16) @done(19-01-16 10:30)
+✔ Sino after sales error processing meeting @critical @date 19-01-16 @author Cathy.Xu @created(19-01-15 13:15) @done(19-01-16 17:00)
+✔ 2018 annual summary meeting department PPT writting,tranning's demo environment developing @critical @created(19-01-17 21:27) @started(19-01-17 10:00) @done(19-01-21 16:36) @lasted(4d6h36m56s)
+
+Todo 4th week:
+✔ 2018 annual summary meeting @critical @created(19-01-21 16:39) @done(19-01-21 16:39)
+✔ presales Meffert barcode application requirements @critical @author Robert.Yu @created(19-01-22 09:47) @done(19-01-22 12:30)
+✔ 2019 product function roadmap schedule planning meeting @critical @author Robert.Yu @date 19-01-25 @created(19-01-22 13:01) @done(19-01-25 18:01)
+✔ project Ausso Addon optimization & web implement meeting @critical @author Shuo.Liu & Tom.Wang @date 19-01-23 @created(19-01-23 10:13) @done(19-01-23 13:00)
+✔ project Ausso technology error request collection & sending mail to SAP @critical @created(19-01-23 14:48) @done(19-01-25 18:43)
+✔ 2019 product pricing list meeting and cloud business meeting @high @author Leon.Li & Ocean.Li & Michael.Zhao @date 19-01-25 @created(19-01-23 14:52) @done(19-01-25 18:00)
+✔ project EDF error processing for example,server disconnect @critical @author Pancy.Fan @date 19-01-28 @created(19-01-23 14:59) @done(19-01-28 20:00)
+✔ SBO(9.3 PL08) development-testing server deploying on 57 @created(19-01-23 20:03) @done(19-01-23 20:04)
+✔ writing departmental staff's Spring Festival vacation plans @critical @created(19-01-24 17:30) @done(19-01-24 19:29)
+✔ team Anymeng annual summary meeting @created(19-01-26 11:30) @started(19-01-26 11:30) @done(19-01-26 17:30) @lasted(6h)
+
+Todo 5th week:
+✔ project Luray ibas data input module deployment @critical @author Shuo.Liu @date 19-01-29 @created(19-01-28 23:09) @done(19-01-29 18:03)
+✔ 2019 Q1 project schedule planning meeting @critical @date 19-01-29 @created(19-01-26 12:51) @done(19-01-29 11:00)
