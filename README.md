@@ -1,4 +1,9 @@
-# team-worknotes
+<p align="center">
+  <a href="https://github.com/EDITeam/team-worknotes/tree/Harold.Duan"><img src="/static/quipu.png" alt="Quipu's logo" /></a>
+</p>
+<h3 align="center"><a href="https://github.com/EDITeam/team-worknotes/tree/Harold.Duan">Quipu</a></h3>
+
+# Quipu
 
 ## Contents
 
