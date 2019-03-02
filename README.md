@@ -47,6 +47,8 @@
 
 ## About
 
-<div align=life> 
+<audio id="audio" controls="" preload="none">
+<source id="mp3" src="/static/life.mp3">
+</audio>
+
 <iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://music.163.com/outchain/player?type=2&id=1293886117&auto=0&height=66"></iframe>
-</div>
