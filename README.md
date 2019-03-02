@@ -2,21 +2,21 @@
 
 ## Contents
 
-[Harold.Duan's Notes](../../tree/Harold.Duan)
+[Harold.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Harold.Duan)
 
-[Pancy.Fan's Notes](/tree/Pancy.Fan)
+[Pancy.Fan's Notes](https://github.com/EDITeam/team-worknotes/tree/Pancy.Fan)
 
-[Aaton.Kang's Notes](/tree/Aaton.Kang)
+[Aaton.Kang's Notes](https://github.com/EDITeam/team-worknotes/tree/Aaton.Kang)
 
-[Shuo.Liu's Notes](/tree/Shuo.Liu)
+[Shuo.Liu's Notes](https://github.com/EDITeam/team-worknotes/tree/Shuo.Liu)
 
-[Coffee.Wang's Notes](/tree/Coffee.Wang)
+[Coffee.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Coffee.Wang)
 
-[Crystal.Duan's Notes](/tree/Crystal.Duan)
+[Crystal.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Crystal.Duan)
 
-[Zero.Zhang's Notes](/tree/Zero.Zhang)
+[Zero.Zhang's Notes](https://github.com/EDITeam/team-worknotes/tree/Zero.Zhang)
 
-[Abe.Wang's Notes](/tree/Abe.Wang)
+[Abe.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Abe.Wang)
 
 ## Teamers
 
