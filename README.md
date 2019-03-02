@@ -5,6 +5,8 @@
 
 # Quipu
 
+**Quipu** is my work notes project.
+
 ## Contents
 
 + [2019](/2019 '2019')
