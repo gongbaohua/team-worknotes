@@ -3,7 +3,7 @@
 </p>
 <h3 align="center"><a href="https://github.com/EDITeam/team-worknotes/tree/Harold.Duan">Quipu</a></h3>
 
-#Quipu ![progress](http://progressed.io/bar/17?title=done) ![version](https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000)
+# Quipu ![progress](http://progressed.io/bar/17?title=done) ![version](https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000)
 
 **Quipu** is my work notes project.
 
@@ -46,6 +46,10 @@
 </p>
 
 ## About
+
+<audio src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" controls="controls">
+Your browser does not support the audio tag.
+</audio>
 
 {% include youtube.html id="25730757" %}
 
