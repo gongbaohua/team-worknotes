@@ -30,6 +30,7 @@
   <a href="https://github.com/LsKeke"><img src="https://avatars1.githubusercontent.com/u/45222954?s=400&v=4" width="70" alt="Shuo.Liu" /></a>
   <a href="https://github.com/wangpenghuix"><img src="https://avatars3.githubusercontent.com/u/43561846?s=400&v=4" width="70" alt="Coffee.Wang" /></a>
   <a href="https://github.com/810688493"><img src="https://avatars1.githubusercontent.com/u/48113336?s=400&v=4" width="70" alt="Crystal.Duan" /></a>
+  <a href="https://github.com/MRJiaoWL"><img src="https://avatars2.githubusercontent.com/u/46592171?s=400&v=4" width="70" alt="Kris.Jiao" /></a>
   <a href="https://github.com/okzhangyu"><img src="https://avatars0.githubusercontent.com/u/41094697?s=400&v=4" width="70" alt="Zero.Zhang" /></a>
   <a href="https://github.com/wanghaoAbe"><img src="https://avatars1.githubusercontent.com/u/47651011?s=400&v=4" width="70" alt="Abe.Wang" /></a>
 </p>
