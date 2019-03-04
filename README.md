@@ -14,6 +14,8 @@
 
 [Crystal.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Crystal.Duan)
 
+[Kris.Jiao's Notes](https://github.com/EDITeam/team-worknotes/tree/Kris.Jiao)
+
 [Zero.Zhang's Notes](https://github.com/EDITeam/team-worknotes/tree/Zero.Zhang)
 
 [Abe.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Abe.Wang)
