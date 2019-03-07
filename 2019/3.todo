@@ -9,3 +9,6 @@ Todo 周二:
 
 Todo 周三:
     ✔ 今天在idea上创建了springboot项目并与数据库进行连接，进行对数据库实现增删改查的操作 ，在操作过程中出现了很多问题，比如因为数据库版本问题连接不上数据库，通过从网上查找最终解决了问题。实现了对数据库的操作，也通过这个流程又重新学习了昨天学习的内容 @started(19-03-06 09:00) @done(19-03-06 17:51) @lasted(8h51m53s)
+
+Todo 周四:
+    ✔ 今天看了关于CXF框架的内容，了解了springboot通过整合CXF，实现Restful api与Web service api在dao层使用Mybatis，在网上看了相关的就教学项目和文档 @started(19-03-07 09:00) @done(19-03-07 17:23) @lasted(8h23m20s)
