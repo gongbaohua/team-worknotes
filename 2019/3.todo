@@ -10,8 +10,10 @@ Todo 2nd week:
 ☐ develop bluestar interface @critical @date 19-03-04 @started(19-03-04 09:00)
 ☐ study jaxb @critical @date 19-03-04
 Todo 2nd week:
-☐ 开发蓝星接口，安装B1  @date 19-03-05 @started(19-03-05 9:00)
+✔ 开发蓝星接口，安装B1  @date 19-03-05 @started(19-03-05 9:00) @done(19-03-07 17:43) @lasted(2d8h43m17s)
 ✔ 学习JAXB @done(19-03-05 17:48) @date 19-03-05 @started(19-03-05 9:00) @cancelled(19-03-05 17:58)
 ☐ 学习拦截器 @date 19-03-05
 ✔ 开发蓝星接口，写完了生成凭单的功能 @date @started(19-03-06 9:00)  @done(19-03-06 17:34) @critical 
- ☐ 在本地测试蓝星接口生成凭单 @date 19-03-06 @critical 
+ ✔ 在本地测试蓝星接口生成凭单 @date 19-03-06 @critical @done(19-03-07 17:43)
+  ✔ 开发蓝星接口，将数据保存到中间表 @date @started(19-03-07 9:00) @done(19-03-07 17:45) @lasted(8h45m33s)
+   ☐ 完成生成凭单之后更新中间状 @date 19-03-06 (19-03-07 17:46)
