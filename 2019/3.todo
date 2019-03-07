@@ -7,3 +7,6 @@
 ✔ Learning Recursive Functions @done(19-03-06 18:14)
 ✘ Navigation using recursive splicing @cancelled(19-03-06 18:15)
 ✔ Learn to splice HTML tags using JS in angular @done(19-03-06 18:16)
+☐ Job diary 20190307
+✔ 根据特定文件夹生成导航，拼接到html @done(19-03-07 18:11)
+✘ 生成导航后，发现（click）事件无法使用 @cancelled(19-03-07 18:12)
