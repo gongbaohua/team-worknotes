@@ -10,3 +10,9 @@
 ☐ Job diary 20190307
 ✔ 根据特定文件夹生成导航，拼接到html @done(19-03-07 18:11)
 ✘ 生成导航后，发现（click）事件无法使用 @cancelled(19-03-07 18:12)
+☐ Job diary 20190308
+✔ influenza and Have a fever @done(19-03-08 18:11)
+☐ Job diary 20190311
+✔ 左侧导航可以正常使用，click问题解决。 @done(19-03-11 18:10)
+✔ 内容框，可以加载出下载列表 @done(19-03-11 18:10)
+✘ 下载按钮功能实现 @cancelled(19-03-11 18:10)
