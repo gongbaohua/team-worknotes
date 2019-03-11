@@ -12,3 +12,7 @@ week 1:
     ✔ 康吉森需求预估人天 @started(19-03-07 13:47)根据张辉描述的逻辑，并查看代码，寻求解决方法 @done(19-03-07 17:52) @lasted(4h5m3s)
     ✔ 寒武纪安装配置MDM数据下发Addon @started(19-03-08 09:00) 数据结构导入，功能安装演示@done(19-03-08 17:54) @lasted(8h54m48s)
     ✔ 康吉森数据所有权控制修改 @started(19-03-08 17:00) 开发完成，已打包发给实施同事等待测试结果@done(19-03-08 17:56) @lasted(56m9s)
+week 2:
+    ✔ 淄博鲁瑞。ibas问题修改 @started(19-03-11 09:00) @done(19-03-11 14:00) @lasted(5h13s)
+    ✔ 康吉森bug修改，工时预算单复制单据功能操作dataSource没用offset @started(19-03-11 14:17) @done(19-03-11 18:00) @lasted(3h43m16s)
+    ✔ 查看springboot代码 @started(19-03-11 16:03) @done(19-03-11 18:00) @lasted(1h57m15s)
