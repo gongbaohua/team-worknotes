@@ -18,3 +18,10 @@ Todo 2nd week:
   ✔ 开发蓝星接口，将数据保存到中间表 @date @started(19-03-07 9:00) @done(19-03-07 17:45) @lasted(8h45m33s)
    ☐ 完成生成凭单之后更新中间状 @date 19-03-06 (19-03-07 17:46)@critical 
    ✔ 开发蓝星接口，修改生成凭单的功能 @date @started(19-03-08) @critical @done(19-03-08 18:09) @lasted(18h9m24s)
+
+   蓝星清洗接口j开发过程遇到的问题：
+   ✔ 用postEntity调不调接口，后老改写成HTTPClient的形式调接口，成功解决 @date @started(19-03-11) @done(19-03-11 18:56) @lasted(18h56m25s)
+   学习到了两个注解 ：
+  ✔ 1. @JsonIgnoreProperties(ignoreUnknown = true)，反序列化时可以忽略实体类中不存在的属性 @date @started(19-03-11) @done(19-03-11 18:56) @lasted(18h56m30s)
+  ✔ 2. @JsonFormat( pattern="yyyy-MM-dd HH:mm:ss") 日期格式反序列化抛异常，用到了这个注解解决 @date @started(19-03-11) @done(19-03-11 18:56) @lasted(18h56m32s)
+   ☐ 开发北京清洗接口，推送物料主数据 @date @started(19-03-11) @critical
