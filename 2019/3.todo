@@ -16,3 +16,5 @@ week 2:
     ✔ 淄博鲁瑞。ibas问题修改 @started(19-03-11 09:00) @done(19-03-11 14:00) @lasted(5h13s)
     ✔ 康吉森bug修改，工时预算单复制单据功能操作dataSource没用offset @started(19-03-11 14:17) @done(19-03-11 18:00) @lasted(3h43m16s)
     ✔ 查看springboot代码 @started(19-03-11 16:03) @done(19-03-11 18:00) @lasted(1h57m15s)
+    ✔ 结合add-on修改调试mdm代码 @started(19-03-12 09:02)删掉没用controller,缺少配置文件， @done(19-03-12 18:01) @lasted(8h59m2s)
+    ✔ 康吉森预算单，复制、保存、中间表数据都不一直，问题修改 @started(19-03-12 15:50) @done(19-03-12 17:09) @lasted(1h19m53s)
