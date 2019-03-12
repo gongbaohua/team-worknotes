@@ -24,4 +24,16 @@ Todo 2nd week:
    学习到了两个注解 ：
   ✔ 1. @JsonIgnoreProperties(ignoreUnknown = true)，反序列化时可以忽略实体类中不存在的属性 @date @started(19-03-11) @done(19-03-11 18:56) @lasted(18h56m30s)
   ✔ 2. @JsonFormat( pattern="yyyy-MM-dd HH:mm:ss") 日期格式反序列化抛异常，用到了这个注解解决 @date @started(19-03-11) @done(19-03-11 18:56) @lasted(18h56m32s)
-   ☐ 开发北京清洗接口，推送物料主数据 @date @started(19-03-11) @critical
+   ✔ 开发北京清洗接口，推送物料主数据 @date @started(19-03-11) @critical @done(19-03-12 00:09) @lasted(1d9m31s)
+
+   北京清洗接口开发中遇到的坑：
+   ✔ 1.无法绑定Mapper,经过反复的查找发现是Mapper文件的命名和接口命名不一致 @done(19-03-12 19:04)
+   ✔ 2.查询结果返回类型误用了resultType,实际返回的是一个集合，应该用resultMap @done(19-03-12 19:04)
+   ✔ 3.启动一直报错，接口的方法名和Mapper的不一致，经过检查比对Mapper文件与接口的方法 @done(19-03-12 19:04)
+
+   测试北京清洗接口：
+   ✔ 认账分款接口测试通过 @date @started(19-03-12) @done(19-03-12 18:59) @lasted(18h59m58s)
+   ✔ 测试查询客户余额接口 @date(19-03-12) @done(19-03-12 19:00)
+   ☐ 测试物料价格查询接口
+   ✔ 总结：在接口开发中，程序中内部抛出的异常不能返回给客户看，内部的异常应该捕捉并且打印在日志中 @done(19-03-12 19:04)
+   
