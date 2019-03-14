@@ -19,6 +19,9 @@
 ☐ Job diary 20190312
 ✔ 下载按钮功能实现 @done(19-03-12 18:05)
 ✘ 读取markdown文件加载到html @cancelled(19-03-12 18:06)
-☐ Job diary 20190312
+☐ Job diary 20190313
  ✔ 读取markdown文件加载到html @done(19-03-14 09:30)
  ✘ 头部导航，不能及时加载问题 @cancelled(19-03-14 09:30)
+ ☐ Job diary 20190314
+ ✔ 头部导航，不能及时加载问题 @done(19-03-14 17:51)
+ ✔ 修改导航bug @done(19-03-14 17:51)
