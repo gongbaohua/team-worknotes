@@ -27,3 +27,6 @@ Todo 周三:
 
 Todo 周四:
     ✔ 今天主要是在github上学习关于springboot的一些常用注解的作用，以及Java的基础知识中比较容易搞混淆的地方 @started(19-03-14 09:00) @done(19-03-14 18:05) @lasted(1d31m25s)
+
+Todo 周五:
+    ✔ 今天学习了spring框架的主要思想，以及spring和springboot的关系。通过蓝星接口的源代码，学习接口调用的内部逻辑，以及数据的传递路径。 @started(19-03-15 09:00) @done(19-03-15 17:38) @lasted(8h38m19s)
