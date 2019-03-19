@@ -51,7 +51,9 @@ Todo 2nd week:
    ✔ 认账分款 @done(19-03-18 18:04)
 
    4th weeks
-   ☐ 周三去蓝星现场联调金税接口
-   ☐ 周五交付蓝星
+   ☐ 周三去蓝星现场联调金税接口 @critical 
+   ☐ 周五交付蓝星 @critical 
+   ✔ 学习XML以及bean之间的相互转换 @done(19-03-19 18:11)
+   ✔ 学习webservice @done(19-03-19 18:11)
 
    
