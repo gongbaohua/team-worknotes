@@ -39,3 +39,6 @@
 ✔ 研究flask PythonWeb框架，Servicelayer @done(19-03-18 18:01)
 ✔ 自己编写Flask Web服务Demo @done(19-03-18 18:02)
 ✔ 编写奥斯项目Model,序列化后赋值， @done(19-03-18 18:01)
+☐ Tuesday(2019/3/19)
+✔ 改变Demo的测试单据。所以变更为发票。从新修改Model, @done(19-03-19 18:26)
+✔ 自测实现POST请求接口，编写测试数据，根据单据 拆分出ABCD 的数据集合 @done(19-03-19 18:27)
