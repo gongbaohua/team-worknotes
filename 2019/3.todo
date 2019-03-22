@@ -42,3 +42,6 @@
  ✔ bfireStoreWeb系统下载功能读取本地文件夹，无法读取，只能读取虚拟路径 @done(19-03-21 17:59)
  ✔ bfireStoreWeb删除多余代码，变量和参数要声明类型 @done(19-03-21 18:01)
  ✘ 编写bfireStoreWeb系统 设计文档 @cancelled(19-03-21 18:00)
+ ☐ Job diary 20190322
+ ✔ 编写bfireStoreWeb系统 设计文档 @done(19-03-22 17:38)
+ ✘ 运行bfireStoreWeb时，遇到bug @cancelled(19-03-22 17:38)
