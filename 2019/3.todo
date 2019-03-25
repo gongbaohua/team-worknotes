@@ -29,13 +29,13 @@ week 3:
 
 week 4:
     ✔ 移动端条码应用测试（力达康部署准备）。 @started(19-03-18 11:02) @done(19-03-18 17:29) @lasted(6h27m19s)
-    ☐ bfire Store web测试与代码规范调优，测试。 @started(19-03-18 09:02)
+    ✔ bfire Store web测试与代码规范调优，测试。 @started(19-03-18 09:02) @done(19-03-25 14:31) @lasted(1w5h29m58s)
     ✔ 力达康现场演示。 @started(19-03-19 10:00) @done(19-03-19 17:47) @lasted(7h47m6s)
-    ☐ 研究如何在登录时分辨平台并导航到相应页面展示。（移动端不适合展示较多字段）。 @started(19-03-20 14:53)
+    ✔ 研究如何在登录时分辨平台并导航到相应页面展示。（移动端不适合展示较多字段）。结果：可以根据不同平台进行路由重定向，但一个Ctrl只能绑定一个template（HTML文件），所以没有意义。考虑内容投影或动态组件。或者bootstrap本身即为响应式设计UI，不写两套html？ @started(19-03-20 14:53) @done(19-03-25 17:42) @lasted(5d2h49m17s)
     ☐ bootstrap alert组件封装。
     ✔ bfire Store web 发布服务器确认。 @done(19-03-20 17:31)
-    ☐ bfire Store web 说明文档撰写。
-    ☐ bfire Store web 打包发布。
+    ✔ bfire Store web 说明文档撰写。 @started(19-03-21 10:21) @done(19-03-25 14:31) @lasted(4d4h10m35s)
+    ✔ bfire Store web 打包发布（尝试使用Nginx发布）。 @done(19-03-25 16:59)
     ☐ 开放bfire Store web外网端口。
 
 week 5:
@@ -44,3 +44,5 @@ week 5:
     ☐ 创建代码模版（web端与移动端）。
     ☐ 发布npm包（自动生成代码工具）。
         在制定数据结构规则并制定模版后实现。
+    ☐ 移动端与PC端两套页面实现需商议。
+        可以根据不同平台进行路由重定向，但一个Ctrl只能绑定一个template（HTML文件），所以没有意义。考虑内容投影或动态组件。
