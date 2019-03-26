@@ -62,8 +62,9 @@ Todo 2nd week:
     ✔ 写生成代码解析XML的逻辑 @done(19-03-25 19:15)
 
     5thweeks:
-    ☐ 写和铂金调serviceslayer的逻辑
-    ☐ 处理接口发布到服务器上调不通的问题
+    ✔ 写和铂金调serviceslayer的逻辑 @done(19-03-26 18:07)
+    ✔ 处理接口发布到服务器上调不通的问题 @done(19-03-26 18:06)
+    ✔ 解决了调用serveiceslaye登录接口时，证书错误的问题 @done(19-03-26 18:07)
    
 
    
