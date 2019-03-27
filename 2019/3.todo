@@ -40,12 +40,13 @@ week 4:
 week 5:
     ☐ bootstrap alert组件封装。
     ☐ js读取xml文件实现。
-    ☐ bootstrap标准页面制定（list\edit\check,单据\主数据ionic？）。
-    ☐ ionic标准页面制定（list\edit\check,单据\主数据？）。
+    ☐ bootstrap标准页面制定（list\edit\check,单据\主数据ionic？web端与移动端？）。
+    ☐ ionic标准页面制定（list\edit\check,单据\主数据？web端与移动端？）。 
     ✔ 力达康条码采集器部署条码移动端应用与配置、测试。  安卓版本过低，导致app运行不起来。建议升级操作系统。 @started(19-03-26 14:45) @done(19-03-26 15:42) @lasted(57m51s)
     ☐ 条码移动端应用添加多语言支持。
-    ☐ 创建代码模版（web端与移动端）。
     ☐ 发布npm包（自动生成代码工具）。
         在制定数据结构规则并制定模版后实现。
-    ☐ 移动端与PC端两套页面实现需商议。
+    ☐ 是否移动端与PC端两套页面实现需商议。
         可以根据不同平台进行路由重定向，但一个Ctrl只能绑定一个template（HTML文件），所以没有意义。考虑内容投影或动态组件。
+    ✔ 条码移动端应用操作与说明文档（bfireStoreWeb）。 @started(19-03-27 09:38) @done(19-03-27 14:08) @lasted(4h30m16s)
+    ☐ 核销系统上传与解析性能测试。 @started(19-03-27 17:24)
