@@ -38,8 +38,9 @@ week 4:
     ☐ 开放bfire Store web外网端口。
 
 week 5:
-    ☐ bootstrap alert组件封装。
-    ☐ js读取xml文件实现。
+    ☐ bootstrap alert组件封装，组件可绑定变量，封装一个组件即可显示页面所有提示信息，但国际化不能翻译变量，如何将二者完美结合？
+    ✔ js读取并解析数据字典xml文件实现。 @started(19-03-28 09:14) @done(19-03-28 14:43) @lasted(5h29m24s)
+    ☐ 研究如何在schematics cli中添加参数与运行逻辑，加入读取数据字典xml文件并生成带有对应字段的html代码的功能。
     ☐ bootstrap标准页面制定（list\edit\check,单据\主数据ionic？web端与移动端？）。
     ☐ ionic标准页面制定（list\edit\check,单据\主数据？web端与移动端？）。 
     ✔ 力达康条码采集器部署条码移动端应用与配置、测试。  安卓版本过低，导致app运行不起来。建议升级操作系统。 @started(19-03-26 14:45) @done(19-03-26 15:42) @lasted(57m51s)
@@ -49,4 +50,5 @@ week 5:
     ☐ 是否移动端与PC端两套页面实现需商议。
         可以根据不同平台进行路由重定向，但一个Ctrl只能绑定一个template（HTML文件），所以没有意义。考虑内容投影或动态组件。
     ✔ 条码移动端应用操作与说明文档（bfireStoreWeb）。 @started(19-03-27 09:38) @done(19-03-27 14:08) @lasted(4h30m16s)
-    ☐ 核销系统上传与解析性能测试。 @started(19-03-27 17:24)
+    ✔ 核销系统上传与解析性能测试。解析数据：462m对账单，1862331行数据，5线程32分钟。 @started(19-03-27 17:24) @done(19-03-27 22:58) @lasted(5h34m50s)
+    ☐ bfireStoreWeb优化：读取本地文件改为http，将不受浏览器制约。
