@@ -2,3 +2,7 @@
 ☐ Monday-2019-4-1
 ✔ 尚诚同力项目单据异常如果连续出现多单情况不易分辨出是那一单，故为每单的Error信息前加上OA_Number单据号 @done(19-04-01 17:38)
 ✔ 了解Python（IO编程，错误处理） @done(19-04-01 17:38)
+☐ Second week
+☐ Tuesday-2019-4-2
+✔ 学习python拓展知识面 @done(19-04-02 17:43)
+✔ 文件读写，stringIO，BytesIO内存读写,异步IO操作,序列化,熟悉一些python的基础语法 @done(19-04-02 17:52)
