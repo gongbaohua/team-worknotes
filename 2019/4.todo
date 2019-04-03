@@ -5,3 +5,8 @@
 ☐ Job diary 20190402
 ✔ 学习node.js 的fs - 文件系统 @done(19-04-02 18:20)
 ✘ 用node.js 拼接json @cancelled(19-04-02 18:22)
+☐ Job diary 20190403
+✔ 使用node.js 的写传输文件集合的接口 @done(19-04-03 18:01)
+✔ 拼接html左侧导航 @done(19-04-03 18:01)
+✔ 点击左侧导航，展示markdown文件 @done(19-04-03 18:02)
+✘ 下载功能有bug，谷歌的兼容性问题 @cancelled(19-04-03 18:03)
