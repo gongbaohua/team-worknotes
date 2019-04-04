@@ -10,3 +10,7 @@
 ✔ 拼接html左侧导航 @done(19-04-03 18:01)
 ✔ 点击左侧导航，展示markdown文件 @done(19-04-03 18:02)
 ✘ 下载功能有bug，谷歌的兼容性问题 @cancelled(19-04-03 18:03)
+☐ Job diary 20190404
+✔ 使BfireStoreWeb网站的下载功能，兼容谷歌和ie @done(19-04-04 18:05)
+✔ 修复BfireStoreWeb网站的bug @done(19-04-04 18:05)
+✔ 看了会核销的后台的nodejs @done(19-04-04 18:06)
