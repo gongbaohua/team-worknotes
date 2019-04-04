@@ -19,5 +19,5 @@ week 1:
     ✘ brifeStoreWeb重新设计（ActiveXObject读的是客户端文件）。暂停。 @started(19-04-02 10:08) @cancelled(19-04-04 10:39) @wasted(2d31m51s)
     ✔ 制定JavaScript开发规约，完善github上文档。 @started(19-04-01 09:25) @done(19-04-01 13:58) @lasted(4h33m20s)
     ☐ 核销系统代码重构。 @started(19-04-01 14:50)
-    ☐ bootstrap标准页面制定（list\edit\check,单据\主数据ionic？web端与移动端？）。 @started(19-04-04 10:40)
+    ☐ bootstrap标准页面制定（list\edit\check,web端与移动端）。未完成。 @started(19-04-04 10:40)
     
