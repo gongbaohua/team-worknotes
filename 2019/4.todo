@@ -18,5 +18,10 @@
 ✔ When I went to Zhengzhou to play, I didn’t buy a ticket back to Beijing, which led to a day off. @done(19-04-08 17:47)
 ☐ Job diary 20190409
 ✔ 学习node.js的接口与项目相结合 @done(19-04-09 17:49)
-✔ 实现importreconciliationdocuments页面的搜索功能，分页功能 @done(19-04-09 17:49)
-✔ 对transferreconciliationdocuments页面的功能进行实现 @done(19-04-09 17:50)
+✔ 初步实现importreconciliationdocuments页面的搜索功能，分页功能（不完善，还需要修改） @done(19-04-09 17:49)
+✔ 初步对transferreconciliationdocuments页面的功能进行实现（不完善，还需要修改） @done(19-04-09 17:50)
+☐ Job diary 20190410
+✔ 对transferreconciliationdocuments页面的功能进行补充和修改 @done(19-04-11 09:16)
+✘ 发现接口的问题，transferreconciliationdocuments页面点击选一个解析文件，自动全部解析了 @cancelled(19-04-11 09:16)
+✘ importreconciliationdocuments页面，删除多个导入的文件时，删除有问题，只删除了服务器d盘的文件，数据库没删。 @cancelled(19-04-11 09:19)
+✔ 初步对transferreconciliationdocumentshistory页面的功能进行实现（不完善，还需要修改） @done(19-04-11 09:17)
