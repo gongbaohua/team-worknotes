@@ -25,3 +25,6 @@
 ✘ 发现接口的问题，transferreconciliationdocuments页面点击选一个解析文件，自动全部解析了 @cancelled(19-04-11 09:16)
 ✘ importreconciliationdocuments页面，删除多个导入的文件时，删除有问题，只删除了服务器d盘的文件，数据库没删。 @cancelled(19-04-11 09:19)
 ✔ 初步对transferreconciliationdocumentshistory页面的功能进行实现（不完善，还需要修改） @done(19-04-11 09:17)
+☐ Job diary 20190411
+✔ transferreconciliationdocumentshistory，transferreconciliationdocumentscheck，transferreconciliationdocuments三个页面的初步实现，对importreconciliationdocuments页面进行了修改。 @done(19-04-11 17:37)
+✘ transferreconciliationdocumentssetting进行功能的实现（进行中） @cancelled(19-04-11 17:38)
