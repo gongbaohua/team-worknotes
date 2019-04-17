@@ -41,3 +41,7 @@
 ✔ 学习websocket @done(19-04-16 18:31)
 ✔ transferreconciliationdocuments页面的功能进行完善 @done(19-04-16 18:31)
 ✘ transferreconciliationdocuments页面，接受websocket数据 @cancelled(19-04-16 18:32)
+☐ Job diary 20190417
+✔ 初步transferreconciliationdocumentshistory页面完善搜索功能，分页功能，查看功能 @done(19-04-17 18:02)
+✔ 修改transferreconciliationdocuments页面数据加载不全的问题 @done(19-04-17 18:02)
+✔ 修改transferreconciliationdocumentscheck页面路由 @done(19-04-17 18:02)
