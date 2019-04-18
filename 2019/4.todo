@@ -45,3 +45,7 @@
 ✔ 初步transferreconciliationdocumentshistory页面完善搜索功能，分页功能，查看功能 @done(19-04-17 18:02)
 ✔ 修改transferreconciliationdocuments页面数据加载不全的问题 @done(19-04-17 18:02)
 ✔ 修改transferreconciliationdocumentscheck页面路由 @done(19-04-17 18:02)
+☐ Job diary 20190418
+✔  对ui.orderreconciliation网站进行简化代码，删除冗余代码，以及代码格式化 @done(19-04-18 17:49)
+✔  1 修改transferreconciliationdocuments页面的复选框为单选框2 修改transferreconciliationdocuments页面的复选框为单选框3 修复transferreconciliationdocuments页面解析错误的情况4 修复语言环境加载错误的情况 @done(19-04-18 17:49)
+✘  对transferreconciliationdocumentscheck页面功能进行实现（进行中） @cancelled(19-04-18 17:50)
