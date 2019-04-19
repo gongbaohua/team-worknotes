@@ -49,3 +49,6 @@
 ✔  对ui.orderreconciliation网站进行简化代码，删除冗余代码，以及代码格式化 @done(19-04-18 17:49)
 ✔  1 修改transferreconciliationdocuments页面的复选框为单选框2 修改transferreconciliationdocuments页面的复选框为单选框3 修复transferreconciliationdocuments页面解析错误的情况4 修复语言环境加载错误的情况 @done(19-04-18 17:49)
 ✘  对transferreconciliationdocumentscheck页面功能进行实现（进行中） @cancelled(19-04-18 17:50)
+☐ Job diary 20190419
+✔ transferreconciliationdocumentscheck页面初步实现1 搜索功能2 删除功能3 下载功能4 分页功能 @done(19-04-19 19:14)
+✔ 5 给参数类型加参数6 修改语言环境内容7 修改模糊查询部分的代码 @done(19-04-19 19:14)
