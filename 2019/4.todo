@@ -52,3 +52,8 @@
 ☐ Job diary 20190419
 ✔ transferreconciliationdocumentscheck页面初步实现1 搜索功能2 删除功能3 下载功能4 分页功能 @done(19-04-19 19:14)
 ✔ 5 给参数类型加参数6 修改语言环境内容7 修改模糊查询部分的代码 @done(19-04-19 19:14)
+☐ Job diary 20190422
+✔ 初步实现TransferReconciliationDocumentsSettingOperation页面的功能 @done(19-04-22 18:47)
+✔ 看一商宇洁核销系统设计文档 @done(19-04-22 18:47)
+☐ Job diary 20190423
+✘ 编写order-reconcile页面功能和后台接口 @cancelled(19-04-23 19:47)
