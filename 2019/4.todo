@@ -60,3 +60,6 @@
 ☐ Job diary 20190424
  ✔ 初步完善order-reconcile页面功能和后台接口 @done(19-04-24 19:31)
  ✔ 初步完善手动对账功能 @done(19-04-24 19:32)
+ ☐ Job diary 20190425
+ ✔ 初步完善order-reconcile-history页面功能和后台接口 @done(19-04-25 19:02)
+ ✘ 学习用node。js 写自动对账功能 @cancelled(19-04-25 19:02)
