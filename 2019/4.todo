@@ -71,3 +71,6 @@
  ☐ Job diary 20190429
  ✔ 修复对账页面的问题 @done(19-04-29 17:38)
  ✔ 初步实现解除对账页面的功能，解除功能还有问题 @done(19-04-29 17:38)
+ ☐ Job diary 20190430
+ ✔ 初步实现解除对账页面的功能 @done(19-04-30 18:09)
+ ✔ 给transfer-reconciliation-documents-setting-operation添加操作表的功能，删除表还有问题 @done(19-04-29 17:38)
