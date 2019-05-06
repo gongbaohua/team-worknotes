@@ -3,3 +3,7 @@
 ✔ 给TransferReconciliationDocumentsSettingOperation页面添加操作数据表的功能， @done(19-05-06 09:20)
 ✔ 添加语言环境 @done(19-05-06 09:20)
 ✔ 初步完善消息功能 @done(19-05-06 09:20)
+☐ Job diary 20190506
+✘ 测试网站功能，修复bug @cancelled(19-05-06 18:23)
+✔ message不使用modal @done(19-05-06 18:23)
+✔ 更改语言环境的默认值 @done(19-05-06 18:22)
