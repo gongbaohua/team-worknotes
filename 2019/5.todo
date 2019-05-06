@@ -1,2 +1,3 @@
 week 1:
     ✔ 航鹏解析销售订单,PO Nbr、Line Nbr、Sched Rel 、物料编号 四列数据判断是否覆盖,添加，忽略销售订单行。 @started(19-05-05 08:30) @done(19-05-05 17:48) @lasted(9h18m33s)
+    ☐ 澳思优化：应付发票(AMIS外机结算)SAP业务伙伴、应付发票servicelayer的查找，添加、更新 @started(19-05-06 08:30)
