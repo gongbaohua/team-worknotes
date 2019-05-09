@@ -6,3 +6,5 @@ week 1:
     ✔ 业务伙伴主数据的子表contactEmployees和filterBPAddresses，serviceLayer处理更新和入库草稿、UDO界面的子表处理方法不一致。 @started(19-05-08 08:30) @done(19-05-08 17:50) @lasted(9h20m31s)
     ✔ UDO有的界面需要子表需要全部删除，然后再patch,但是serviceLayer的patch只会更新有属性值的属性，想办法处理：不全部删除子表再添加，只删除多余列，其余列做更新，防止冲刷掉一些不做更新的值 @done(19-05-08 17:50)
     ✔ 生产发料申请UDOservicelayer的查找，添加、更新 @done(19-05-08 17:50)
+    ✔ 工资月结表UDO servicelayer的查找，添加、更新 @started(19-05-09 08:30) @done(19-05-09 17:50) @lasted(9h20m10s)
+    ✔ 航鹏解析：去掉第三种条件比较，但是需要新作界面显示excel和销售订单差异，并且还要删除已发货行 @done(19-05-09 17:49)
