@@ -4,3 +4,6 @@ week1
 ✔ 改写原一商代码使用dubbo @started(19-05-08 09:10) @done(19-05-08 22:10) @lasted(13h40s)
 ✔ 测试代码 @started(19-05-09 09:09) @done(19-05-09 19:09) @lasted(10h55s)
 ✔ dubbo功能改造 @started(19-05-10 09:36) @done(19-05-10 19:36) @lasted(10h46s)
+
+week2
+✔ 在星哥的帮助下整合dubbo新版本代码，测试接口连通性 @started(19-05-13 09:43) @done(19-05-13 22:43) @lasted(13h18s)
