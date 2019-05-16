@@ -32,3 +32,9 @@
 ☐ Job diary 20190515
 ✔ 修改解析模板 @done(19-05-15 19:44)
 ✔ 修改解析模块（进行中） @done(19-05-15 19:44)
+☐ Job diary 20190516
+✔ 修改list的显示描述 @done(19-05-16 20:46)
+✔ 修改解析模板的逻辑，添加列开始位置和列结束位置 @done(19-05-16 20:46)
+✔ 修改解析后查看页面的绑定的字段 @done(19-05-16 20:46)
+✔ 修改transferreconciliationdocumentssetting页面的显示字段 @done(19-05-16 20:46)
+✔ 删除多余代码。修改TransferReconciliationDocumentsSettingOperation modal弹出条件 @done(19-05-16 20:46)
