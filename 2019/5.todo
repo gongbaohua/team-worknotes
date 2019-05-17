@@ -38,3 +38,8 @@
 ✔ 修改解析后查看页面的绑定的字段 @done(19-05-16 20:46)
 ✔ 修改transferreconciliationdocumentssetting页面的显示字段 @done(19-05-16 20:46)
 ✔ 删除多余代码。修改TransferReconciliationDocumentsSettingOperation modal弹出条件 @done(19-05-16 20:46)
+☐ Job diary 20190517
+✔ 修改对账模板逻辑 @done(19-05-17 20:23)
+✔ 修改描述文件 @done(19-05-17 20:23)
+✔ 添加解析错误行原因 @done(19-05-17 20:23)
+✔ 修改解析模板的逻辑 @done(19-05-17 20:24)
