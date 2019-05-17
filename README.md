@@ -2,27 +2,27 @@
 
 ## Contents
 
-[Harold.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Harold.Duan) :star:
+:star: [Harold.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Harold.Duan)
 
-[Pancy.Fan's Notes](https://github.com/EDITeam/team-worknotes/tree/Pancy.Fan) :star:
+:star: [Pancy.Fan's Notes](https://github.com/EDITeam/team-worknotes/tree/Pancy.Fan)
 
-[Aaton.Kang's Notes](https://github.com/EDITeam/team-worknotes/tree/Aaton.Kang) :star:
+:star: [Aaton.Kang's Notes](https://github.com/EDITeam/team-worknotes/tree/Aaton.Kang)
 
-[Shuo.Liu's Notes](https://github.com/EDITeam/team-worknotes/tree/Shuo.Liu) :star:
+:star: [Shuo.Liu's Notes](https://github.com/EDITeam/team-worknotes/tree/Shuo.Liu)
 
-[Coffee.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Coffee.Wang) :star2:
+:star2: [Coffee.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Coffee.Wang)
 
-[Crystal.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Crystal.Duan) :star:
+:star: [Crystal.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Crystal.Duan)
 
-[Kris.Jiao's Notes](https://github.com/EDITeam/team-worknotes/tree/Kris.Jiao) :star:
+:star: [Kris.Jiao's Notes](https://github.com/EDITeam/team-worknotes/tree/Kris.Jiao)
 
-[Zero.Zhang's Notes](https://github.com/EDITeam/team-worknotes/tree/Zero.Zhang) :star:
+:star: [Zero.Zhang's Notes](https://github.com/EDITeam/team-worknotes/tree/Zero.Zhang)
 
-[Abe.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Abe.Wang) :star:
+:star: [Abe.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Abe.Wang)
 
-[Aaron.Feng's Notes](https://github.com/EDITeam/team-worknotes/tree/Aaron.Feng) :star2:
+:star2: [Aaron.Feng's Notes](https://github.com/EDITeam/team-worknotes/tree/Aaron.Feng)
 
-[Liusky.Liu's Notes](https://github.com/EDITeam/team-worknotes/tree/Liusky.Liu) :star:
+:star: [Liusky.Liu's Notes](https://github.com/EDITeam/team-worknotes/tree/Liusky.Liu)
 
 ## Teamers
 
