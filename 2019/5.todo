@@ -17,5 +17,17 @@
 
  4th weeks:
     ✔ 测试清洗金税发票合并生成凭单的功能 @done(19-05-20 19:10)
+    ✔ 新学了一个更新多行数据 指定不同数据值的sq语法 @done(19-05-21 00:12)
+    UPDATE AVA_GT_TASKS 
+SET fphm = CASE fpdm
+    WHEN 04 THEN '0997'
+    WHEN 05 THEN '0998'
+    WHEN 06 THEN '0996'
+    when 07 then '0910'
+    when 08 then '0923'
+END
+WHERE fpdm IN ('04','05','06','07','8')
+
+  ✔ 解决蓝星清洗物料不能数据数据不能推送的问题，错误原因是用了http协议，应该用http协议 @done(19-05-21 21:39)
       
       
