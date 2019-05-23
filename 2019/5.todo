@@ -25,3 +25,6 @@ week 3:
     ✔ 项目复制:销售订单，项目servicelayer的添加、更新 @done(19-05-21 17:51)
     ✔ 非澳迪仓办毛出库生成分录：生成A、B、C、D、E四种日记账分类以及库存退货servicelayer的添加、更新的优化 @started(19-05-22 08:30) @done(19-05-22 17:52) @lasted(9h22m20s)
     ✔ 采购行项目复制表头合同servicelayer的添加、更新的优化 @done(19-05-22 17:52)
+    ✔ 澳思addon RightClickEvent框架优化 @started(19-05-23 08:30) @done(19-05-23 17:50) @lasted(9h20m40s)
+    ✔ 一商核销支持同事修改BUG @done(19-05-23 17:50)
+    ✔ 办毛出库生成分录剩余功能优化 @done(19-05-23 17:50)
