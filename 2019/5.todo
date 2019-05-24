@@ -28,3 +28,5 @@ week 3:
     ✔ 澳思addon RightClickEvent框架优化 @started(19-05-23 08:30) @done(19-05-23 17:50) @lasted(9h20m40s)
     ✔ 一商核销支持同事修改BUG @done(19-05-23 17:50)
     ✔ 办毛出库生成分录剩余功能优化 @done(19-05-23 17:50)
+    ✔ 客户发票生成应收发票和自定义对象ODRFservicelayer的添加、更新的优化 @started(19-05-24 08:30) @done(19-05-24 17:51) @lasted(9h21m45s)
+    ✔ 物料主数据查找、添加，更新 @done(19-05-24 17:51)
