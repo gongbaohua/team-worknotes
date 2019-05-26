@@ -69,5 +69,9 @@ day5:
      gains:
 
      works:
+    select     from OITM where  ItemCode
+
+
+
 
       
