@@ -67,9 +67,15 @@ day5:
      error:
 
      gains:
+        1.学到了java中如何对BigDecimal进行累计求和利用reduce方法
+        BigDecimal totalQuantity = order.getDeliveryOrderItemList().stream().map(DeliveryOrderItem::getQuantity)
+        .reduce(BigDecimal.ZERO,BigDecimal::add);
 
+        2.计算平均值保留小数点后六位，四舍五入
+        Double afterPrice = Double.valueOf(totalMoney.divide(totalQuantity,6,RoundingMode.HALF_UP).toString());
      works:
-    select     from OITM where  ItemCode
+        蓝星清洗上线之处
+    
 
 
 
