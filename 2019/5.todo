@@ -74,8 +74,15 @@ day5:
         2.计算平均值保留小数点后六位，四舍五入
         Double afterPrice = Double.valueOf(totalMoney.divide(totalQuantity,6,RoundingMode.HALF_UP).toString());
      works:
-        蓝星清洗上线之处
-    
+        蓝星清洗上线准备：
+        ✔ 接口服务切换到生产环境 @done(19-05-29 14:38)
+        ☐ 2.修改服务器公司信息配置文件，添加正式账套公司配置信息
+        ✔ 正式账套接口字段 @done(19-05-29 15:55)
+        ✔ 在在生产环境新建正式库 @done(19-05-29 15:56)
+        ☐ 接口程序以windows服务的方式启动
+
+
+
 
 
 
