@@ -1,0 +1,4 @@
+week 1:
+    ✔ 猫王售前 @done(19-06-03 18:01)
+    ✔ 康吉森 Bom添加，系统弹窗清单，点击DocEntry打开管理团队页签。系统弹窗FormType都是9999，获取行DataBind tableName为空只能根据ObjecType列判断所打开的业务 @done(19-06-03 18:01)
+    ✔ springBoot框架搭建调整 @done(19-06-03 18:01)
