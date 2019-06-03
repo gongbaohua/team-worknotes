@@ -1,0 +1,10 @@
+2weeks:
+    gains:
+    CXF框架：调用webservice的方式
+    1.创建代理工厂 JaxWsProxyFactoryBean jaxWsProxyFactoryBean = new JaxWsProxyFactoryBean();
+    2.设置代理地址 jaxWsProxyFactoryBean.setAddress(address);
+    3.设置接口类型： jaxWsProxyFactoryBean.setServiceClass(UserService.class);
+    3.创建一个代理接口实现： UserService us = (UserService) jaxWsProxyFactoryBean.create();
+    4.调用代理接口的方法： String result = us.getUserName(userId);
+    works:
+    配合化信电商进行上线演示
