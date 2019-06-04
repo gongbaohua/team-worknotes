@@ -8,3 +8,7 @@
     4.调用代理接口的方法： String result = us.getUserName(userId);
     works:
     配合化信电商进行上线演示
+
+    works:
+    ✔ 修改蓝星清洗销售订单行里求平均价格的需求 @done(19-06-04 19:20)
+    ☐ 研究shell自动执行sql脚本
