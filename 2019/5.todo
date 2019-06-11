@@ -89,6 +89,9 @@ day5:
 
         3rd weeks:
          ✔ 搭建和铂发送邮件功能的框架 @done(19-06-10 18:24)
+         sq给查询结果增加一列自增列
+         SELECT Row_Number() over ( order by getdate() ) as init , * FROM 表名
+         ✔ 测试邮件发送功能 @done(19-06-11 20:02)
 
 
 
