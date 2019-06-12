@@ -92,6 +92,8 @@ day5:
          sq给查询结果增加一列自增列
          SELECT Row_Number() over ( order by getdate() ) as init , * FROM 表名
          ✔ 测试邮件发送功能 @done(19-06-11 20:02)
+         ✔ 1.修改邮箱发送服务表结构设计 @done(19-06-12 18:16)
+         ✔ 2.跟和铂OA开会聊报销接口和预付款接口需求 @done(19-06-12 18:17)
 
 
 
