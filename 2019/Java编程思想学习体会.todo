@@ -141,6 +141,89 @@
      4）接口与工厂
      接口是实现多重继承的途径，而生成遵循某个接口的对象的典型方式就是工厂方法
      设计模式
+      4 weeks:
+     面向对象五大原则
+     1.单一职责原则
+     最近写代码发现，虽然功能实现了，但是代码的设计是一团糟，耦合性特别强，
+     有太多冗余的代码，结构也不够清晰，于是就研读一下设计模式，研读设计模式之前，
+     开篇先讲了面向对象五大原则，看完之后，也深有感悟。
+     单一原则的定义是：应该有且只有一个原因引起类的变更。
+     单一职责原则的好处：
+     1）可以降低类的复杂性，实现什么职责都有清洗明确的定义。
+     2）增加了代码的可读性，更加容易维护
+     3）变更引起的风险降低，如果一个接口的单一职责做得好，一个接口只对响应的
+     实现类有影响，这对系统的扩展性，维护性都有很大帮助。
+     总结：单一职责原则提出了一个编写代程序的标准，来衡量接口或类设计的是否优良。
+     所以在代码设计的时候，接口一定要做到单一职责，类的设计尽量做到只有一个原因引起变化。
+
+     2里氏替换原则
+     一般优秀的语言机制有如下的特点：
+     1）代码共享，减少创建类的工作量，每个字类都有父类的方法和属性。
+     2）提高代码的重用性
+     3）提高代码的可扩展性
+     4)提高代产品或项目的开放性
+     继承的缺点给我最大的感受就是：
+     1）继承有很大的侵入性，只要继承就必须有父类的属性和方法。
+     2）降低代码的灵活性。字类必须有父类的属性和方法，让子类多了很多的约束。
+     3）增强了耦合性。父类常量，变量和方法修改时需要考虑字类的修改。有时会导致
+     非常糟糕的结果，大段的代码可能需要重构。
+     看完里氏替换原则让我对代码设计有了新的感悟，
+     1）只要父类出现的地方字类就可以出现，而且替换成字类不会产生任何的错误。
+     2）使用者根本就不需要知道是父类还是子类。
+     现在有步枪，手枪，机枪三种类型的枪，他们都能够进行射击都能杀人。
+     public abstract Class AbstractGAun{
+        public abstract void shooot();
+     }
+     public HandGun extends AbstractGun{
+        public void shoot(){
+           System.out.println(.....手枪射击);
+        }
+     }
+     public class Rifle extends Abstract AbstractGun{
+        public void shoot (){
+           System.out.pintln('''''步枪射击);
+        }
+     }
+     public class Slodier{
+        private AbstractGun;
+        publci void setGun(AbstractGun gun){
+         this.gun= gun;
+        }
+        publci void killEnemy(){
+         
+           System.out.pintln(士兵开始杀敌人);
+           gun.shoot();
+        }
+     }
+     public class client{
+        public static void main(){
+           Solider zhangasn = new Solider();
+           sam.setGun(new Rifle);
+        }
+     }
+     如果增加一个玩具枪的话
+     publci class ToyGun extends AbstractGun{
+        public void shoot{
+           //玩具枪不能射击
+        }
+     }
+     public class Client {
+        publci static void main(String[]args){
+         Solider zhangsan = new Solider();
+         zhangsan.setgun(new ToyGun);
+        } 
+     }
+     此时会有问题，玩具枪不能射击，所以应该让我玩具枪断开继承
+     public abstract class AbstractToy{
+        public void play;
+     }
+     publc class ToyGun extends AbstractToyGun{
+         public vodi play{
+            System.out.println(jjust to play);
+         }
+     }
+
+
 
 
 
