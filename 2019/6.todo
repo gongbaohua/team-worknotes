@@ -19,3 +19,8 @@
     ✔ 1.搭建和铂三期项目结构 @done(19-06-17 18:34)
     ✔ 2.凭单接口代码编写 @done(19-06-17 18:34)
     ✔ 3.爱康接口文档编写 @done(19-06-17 18:34)
+    凭单servicelayer url:
+        https://localhost:50000/b1s/v1/JournalVouchersService_Add
+    预付款申请servicelayer url:
+        https://localhost:50000/b1s/v1//b1s/v1/PurchaseDownPayments
+
