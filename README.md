@@ -24,6 +24,8 @@
 
 :star: [Liusky.Liu's Notes](https://github.com/EDITeam/team-worknotes/tree/Liusky.Liu)
 
+:star: [Sense.Gong's Notes](https://github.com/EDITeam/team-worknotes/tree/Sense.Gong)
+
 ## Teamers
 
 <h3 align="left">
@@ -41,6 +43,7 @@
   <a href="https://github.com/wanghaoAbe"><img src="https://avatars1.githubusercontent.com/u/47651011?s=400&v=4" width="70" alt="Abe.Wang" /></a>
   <a href="https://github.com/fnglei" title="Goodman"><img src="https://avatars2.githubusercontent.com/u/48943894?s=400&v=4" width="70" alt="Aaron.Feng" /></a>
   <a href="https://github.com/liuSky001"><img src="https://avatars2.githubusercontent.com/u/23123638?s=400&v=4" width="70" alt="Liusky.Liu" /></a>
+  <a href="https://github.com/gongbaohua"><img src="https://avatars2.githubusercontent.com/u/51986057?s=400&v=4" width="70" alt="Sense.Gong" /></a>
 </p>
 
 ## About
