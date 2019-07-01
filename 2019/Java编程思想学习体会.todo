@@ -235,8 +235,56 @@
    无论何时定义一个泛型类型，
    相应的原始类型都会被自动提供。原始类型的名字就是删去类型参数后的泛型类型的类
    名。擦除类型变量，并替换为限定类型（T为无限定的类型变量，用Object替换）。
+   
+   6 weeks:
+      1.异常机制：
+      1)异常类
+      所有异常类都有一个共同的父类Throwable,
+      Throwable 类有两个主要参数，一个是message,表示异常消息，另一个是cause
+      表示触发该异常的其他异常。异常可以形成一个异常链，上层异常由底层异常触发，
+      2）异常体系：
+      以Throwable为根，Throwable 是所有异常的基类，它有两个子类：error,Exception
+      ,error 表示系统错误或资源耗尽，由java系统自己使用，应用程序不抛出和进行处理，
+      Exception表示应用程序错误，他有很多字类，应用程序也可以通过继承Exception
+      或其他子类创建自定义异常。
+      3）RuntimeException 比较特殊，它表示未受检的异常，Exception和其字类表示受检
+      异常，受检和未受检的区别在于java如何处理这两种异常。对于受检异常，java会强制要求
+      程序员进行处理，否则会编译有误。
+      常见的RunTimeException:NullPointException ,IllegalStateException非法状态
+      ClassCastException 非法强制类型转换错误。
+      4）如此多的不同的异常基类其实并没有比Throwable这个基类多多少属性和方法，大部分在继承
+      父类后只是定义了几构造方法。定义那么多不同的类的原因是为了名字不同，在抛出和捕获异常时，
+      有助于代码的可读性和维护性
 
+      5）自定义异常：除了javaAPI 中定义的异常类，也可以自己定义异常类，一般时继承Exception
+      或者某个他的子类。如果父类时RunTimeException 或它得某个子类，则自定义异常也是未受检异常。
+      public class AppException extends Exception {
+         public AppException(){
+            super();
+         }
+         public AppException(String message ,Throwable cause){
+            super(message,cause)
+         }
+         public AppException(Throwable cause){
+            super(cause)
+         }
+      }
+      自定义异常和其他异常类一样，没有定义额外得属性和代码，只是定义了Exception,定义了构造方法并
+      调用了父类得构造方法。
 
+      2 异常处理;
+      1）异常处理机制将根据抛出异常类型找第一个匹配的catch块代码，抛出的异常类型是catch
+      中声明异常子类，e.getMessage()获取异常消息，e.printStackTrace()打印异常栈到
+      标准错误输出流
+      2）异常机制中还要一个重要的部分就是finally，catch 后面还可以跟finally
+      finally内的代码不管有无异常发生都会执行，finally一般用于资源的释放，数据库连接，文件流。
+      finally执行有一个细节，在try 或者catch 语句内有return语句则return语句在finally语句执行结束后
+      才执行但是finally并不改变finally返回值
+      3）throws跟在方法的后面可以声明多个异常用逗号隔开，声明的含义表示这个方法可能抛出异常
+      ，且没有对这个异常进行处理，调用者必须进行处理，这个声明没有说明具体什么会抛出什么异常，
+      如歌一个方法内调用了另一个声明抛出的受检异常的方法，则必须处理这些受检异常，处理方式既可以
+      是catch 也可以继续使用throws
+      
 
 
 
