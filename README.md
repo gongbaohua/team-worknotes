@@ -3,7 +3,7 @@
 </p>
 <h3 align="center"><a href="https://github.com/EDITeam/team-worknotes/tree/Harold.Duan">Quipu</a></h3>
 
-# Quipu ![progress](http://progressed.io/bar/47?title=done) ![version](https://img.shields.io/badge/version-1.0.6-blue.svg?cacheSeconds=2592000)
+# Quipu ![progress](http://progressed.io/bar/52?title=done) ![version](https://img.shields.io/badge/version-1.0.7-blue.svg?cacheSeconds=2592000)
 
 **Quipu** is my work notes project.
 
@@ -40,10 +40,10 @@
   <a href="https://github.com/Aton5859"><img src="https://avatars2.githubusercontent.com/u/28555389?s=400&v=4" width="70" alt="Aaton.Kang" /></a>
   <a href="https://github.com/LsKeke"><img src="https://avatars1.githubusercontent.com/u/45222954?s=400&v=4" width="70" alt="Shuo.Liu" /></a>
   <a href="https://github.com/810688493"><img src="https://avatars1.githubusercontent.com/u/48113336?s=400&v=4" width="70" alt="Crystal.Duan" /></a>
-  <a href="https://github.com/MRJiaoWL"><img src="https://avatars2.githubusercontent.com/u/46592171?s=400&v=4" width="70" alt="Kris.Jiao" /></a>
   <a href="https://github.com/okzhangyu"><img src="https://avatars0.githubusercontent.com/u/41094697?s=400&v=4" width="70" alt="Zero.Zhang" /></a>
   <a href="https://github.com/wanghaoAbe"><img src="https://avatars1.githubusercontent.com/u/47651011?s=400&v=4" width="70" alt="Abe.Wang" /></a>
   <a href="https://github.com/liuSky001"><img src="https://avatars2.githubusercontent.com/u/23123638?s=400&v=4" width="70" alt="Liusky.Liu" /></a>
+   <a href="https://github.com/gongbaohua"><img src="https://avatars2.githubusercontent.com/u/51986057?s=400&v=4" width="70" alt="Sense.Gong" /></a>
 </p>
 
 ## About
