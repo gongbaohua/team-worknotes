@@ -23,7 +23,6 @@ Todo 周五:
     Todo 周四:
     ✔ 保存销售订单同步测试接口,查询物料信息同步测试接口,销售订单根据docEntory把IsSync字段更新为Y,物料根据 
     ✔ Itemcode把U_Isync字段改为'Y' @started(19-07-04 09:00) @done(19-07-04 18:18) @lasted(57s)
-   Todo 周五:
-      ✔ 通过第三方请求过来的JSON数据返回JSon保存交货订单中同步测试调接口,查询接收销售订单信息,学习整理GIT运用 @started(19-07-05 9:00) @done(19-07-05 18:00) @lasted(26s)
+    
 
     
