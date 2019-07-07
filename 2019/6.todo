@@ -20,9 +20,10 @@ Todo 周五:
  ✔ 创建一个表,用来测数据 @started(19-06-28 9:00) @done(19-06-28 18:47) @lasted(29s)
  TOdo 周三:
     ✔ 调测物料,销售订单接口 @started(19-07-03 09:00) @done(19-07-03 18:22) @lasted(58s)
-    Todo 周四:
+Todo 周四:
     ✔ 保存销售订单同步测试接口,查询物料信息同步测试接口,销售订单根据docEntory把IsSync字段更新为Y,物料根据 
     ✔ Itemcode把U_Isync字段改为'Y' @started(19-07-04 09:00) @done(19-07-04 18:18) @lasted(57s)
-    
+Todo 周五:
+      ✔ 通过测试请求json数据将返回的json保存交货订单并测试,查询销售订单测试数据,学习git的使用,完成协调其他工作 @started(19-07-05 09:00) @done(19-07-05 18:24) @lasted(58s)
 
     
