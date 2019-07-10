@@ -10,7 +10,7 @@
 
 :star: [Shuo.Liu's Notes](https://github.com/EDITeam/team-worknotes/tree/Shuo.Liu)
 
-:star2: [Coffee.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Coffee.Wang)
+:star: [Coffee.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Coffee.Wang)
 
 :star: [Crystal.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Crystal.Duan)
 
@@ -36,7 +36,7 @@
   <a href="https://github.com/fancys"><img src="https://avatars3.githubusercontent.com/u/4202696?s=400&v=4" width="70" alt="Pancy.Fan" /></a>
   <a href="https://github.com/Aton5859"><img src="https://avatars2.githubusercontent.com/u/28555389?s=400&v=4" width="70" alt="Aaton.Kang" /></a>
   <a href="https://github.com/LsKeke"><img src="https://avatars1.githubusercontent.com/u/45222954?s=400&v=4" width="70" alt="Shuo.Liu" /></a>
-  <a href="https://github.com/wangpenghuix" title="Goodman"><img src="https://avatars3.githubusercontent.com/u/43561846?s=400&v=4" width="70" alt="Coffee.Wang" /></a>
+  <a href="https://github.com/wangpenghuix"><img src="https://avatars3.githubusercontent.com/u/43561846?s=400&v=4" width="70" alt="Coffee.Wang" /></a>
   <a href="https://github.com/810688493"><img src="https://avatars1.githubusercontent.com/u/48113336?s=400&v=4" width="70" alt="Crystal.Duan" /></a>
   <a href="https://github.com/MRJiaoWL" title="Goodman"><img src="https://avatars2.githubusercontent.com/u/46592171?s=400&v=4" width="70" alt="Kris.Jiao" /></a>
   <a href="https://github.com/okzhangyu"><img src="https://avatars0.githubusercontent.com/u/41094697?s=400&v=4" width="70" alt="Zero.Zhang" /></a>
