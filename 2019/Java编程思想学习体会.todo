@@ -305,7 +305,70 @@
       接口：一个接口表示所有实现了该接口的类都像这样，任何使用某些特定接口的代码都可以知道调用接口的哪些方法，
       接口被用力啊建立类与类之间的协议
 
+      8weeks:
+        函数调用的基本原理：
+        程序执行的基本原理:CPU有个指令指示器，指向下一条执行的指令，要么顺序执行，要么跳转。
+        程序从main函数开始顺序执行，函数调用可以看可以看作无条件跳转。碰到retun语句或者函数结尾的时候
+        再执行一次函数无条件跳转，跳转回调用方，执行调用函数后的下一条指令。
+        装饰器模式：
+        装饰器模式使用分层对象来动态透明的向单个对象中添加责任，装饰器指定包装在
+        对象周围所有的对象都具有相同的基本接口，有些事务是可装饰的，可以通过将其他类
+       包装在这个对象周围，将功能分层，无论对象是否被装饰你都拥有一个向对象发送的公共消息集，
+       装饰类也可以添加新方法。
+       装饰器通过使用组合和形式的化结构来实现的。
+       装饰器demo:
+         class Basic{
+            private String value;
+            public void set(String va1){
+               value = val;
+            }
+            public String get(Value val){
+            return value;
+            }
 
+         class Decorator extends Basic{
+            protected Basic basic;
+            public Decorator (Basic basic){
+               this.basic = basic;
+            }
+            public String get(){
+               return basic.get();
+            }
+
+            public void set(String val){
+               basic.set(val);
+            }
+
+         class TimeStamped{
+            private final long timeStamp;
+            public TimeStamped (Basic basic){
+               super(basic);
+               timeStamp = new Date().getTime();
+            }
+            public long getStamp(){
+               return timeStamp;
+            }
+
+            class SerialNumered extends Decorator{
+               private static long counter =1;
+               private final long serialNumber counter++;
+               public SerialNubered(Basic basic){
+                  super(basic);
+                  public long gerSerialNumber(){
+                     return serialNumber;
+                  }
+                  public class Decoration {
+                     public static void main(String []args){
+                        TimeStamped timp = new TimeStamped(new Basic());
+                        TimeStamped timpq = new TimeStamped( new TimeStamped(new Basic()));
+                     }
+                  }
+               }
+            }
+         }
+         }
+
+         }
 
       拓展:Spring框架的学习
       Spring最核心的是IOC
