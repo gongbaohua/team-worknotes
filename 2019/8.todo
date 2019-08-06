@@ -8,3 +8,6 @@
 ☐ 2.week
 ☐ 2019-8-5
 ✔ BPM回传标识接口测试，一期Web接口卡车维度加入判断条件必须为活跃维度 @done(19-08-05 17:42)
+☐ 20109-8-6
+✔ 研究python marshmallow数据验证序列化框架、sqlalchemy ORM框架 @done(19-08-06 17:28)
+✔ BPMAPI WindowsService、WebService 调试 @done(19-08-06 17:30)
