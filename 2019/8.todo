@@ -4,3 +4,4 @@ week 1st:
 
 ☐ week 2ed:
     ☐ 编写福奈特账目明细视图，修改发那科项目调用servicelayer接口方式 @started(19-08-05 18:36)
+    ✔ 测试serviceLayer获取serssion接口 迁移中间表和部署windows服务 @done(19-08-06 18:23)
