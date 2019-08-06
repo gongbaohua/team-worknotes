@@ -370,6 +370,18 @@
 
          }
 
+      8 month:
+         设计模式学习：
+      1.接口的隔离原则定义：
+      接口分为两种 ：实例接口，实例接口在java中声明一个类，然后用new关键字产生一个实例
+      它是对一个类型事务的描述，这是一种接口，例如Person person =new Person(),产生一个实例，这实例
+      要遵从的标准就是Person这个类，person类就是zhangsan接口。
+      2.类接口，java中经常使用的interface关键字定义的接口。
+      隔离性的定义：Clients should not be forced to depend upon interface that that they don't use。
+      3.类间的关系应该建立在最小的接口上。
+      客户端不应该依赖它不需要接口
+
+
       拓展:Spring框架的学习
       Spring最核心的是IOC
       IOC容器最主要为了完成对象的创建和依赖管理的注入，就是把原先我们代码里面需要实现的对象创建、依赖的代码，反转给容器来帮忙实现。
