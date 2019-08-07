@@ -3,6 +3,6 @@ week 1st:
 ✔ 配合客户测试完成库存同步接口，整理福奈特欠款接口数据结构 @done(19-08-02 18:29)
 
 ☐ week 2ed:
-    ☐ 编写福奈特账目明细视图，修改发那科项目调用servicelayer接口方式 @started(19-08-05 18:36)
+    ✔ 编写福奈特账目明细视图，修改发那科项目调用servicelayer接口方式 @started(19-08-05 18:36) @done(19-08-07 18:34) @lasted(1d23h58m28s)
     ✔ 测试serviceLayer获取serssion接口 迁移中间表和部署windows服务 @done(19-08-06 18:23)
     ✔ 在服务器安装Java环境，迁移和部署接口服务并测通所有接口 给客户编写发布windows服务操作文档 @done(19-08-07 18:33)
