@@ -11,3 +11,11 @@
 ☐ 20109-8-6
 ✔ 研究python marshmallow数据验证序列化框架、sqlalchemy ORM框架 @done(19-08-06 17:28)
 ✔ BPMAPI WindowsService、WebService 调试 @done(19-08-06 17:30)
+☐ 20109-8-7
+✔ 编写BPM WindowsService接口  POST BPMWebService接口 @done(19-08-08 18:03)
+✔ 测试BPM 传入B1 的WebService接口 @done(19-08-08 18:04)
+✔ 经过商议决定 POST给BPM方的回传单据 单次传输一次一条 @done(19-08-08 18:05)
+☐ 20109-8-8
+✔ BPM接口 Web接口字段存在差异 重写拟定Json格式 代码中接收字段修改 @done(19-08-08 18:06)
+✔ 传入Web接口的报销单存在税额税率的差异 合并数据需 单独产生税额借方 @done(19-08-08 18:07)
+✔ WindowsService状态回写代码块 根据对方回传Error来处理异常 @done(19-08-08 18:08)
