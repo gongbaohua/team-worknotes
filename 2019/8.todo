@@ -8,18 +8,18 @@
 ☐ 2.week
 ☐ 2019-8-5
 ✔ BPM回传标识接口测试，一期Web接口卡车维度加入判断条件必须为活跃维度 @done(19-08-05 17:42)
-☐ 20109-8-6
+☐ 2019-8-6
 ✔ 研究python marshmallow数据验证序列化框架、sqlalchemy ORM框架 @done(19-08-06 17:28)
 ✔ BPMAPI WindowsService、WebService 调试 @done(19-08-06 17:30)
-☐ 20109-8-7
+☐ 2019-8-7
 ✔ 编写BPM WindowsService接口  POST BPMWebService接口 @done(19-08-08 18:03)
 ✔ 测试BPM 传入B1 的WebService接口 @done(19-08-08 18:04)
 ✔ 经过商议决定 POST给BPM方的回传单据 单次传输一次一条 @done(19-08-08 18:05)
-☐ 20109-8-8
+☐ 2019-8-8
 ✔ BPM接口 Web接口字段存在差异 重写拟定Json格式 代码中接收字段修改 @done(19-08-08 18:06)
 ✔ 传入Web接口的报销单存在税额税率的差异 合并数据需 单独产生税额借方 @done(19-08-08 18:07)
 ✔ WindowsService状态回写代码块 根据对方回传Error来处理异常 @done(19-08-08 18:08)
-☐ 20109-8-9
+☐ 2019-8-9
 ✔ 数据调试 ，报销单合并后，生成的税额行业务伙伴代码问题 @done(19-08-09 17:52)
 ✔ 接口流程调试，数据传来生成生成分录 ， WindowsService回传数据给BPM @done(19-08-09 17:54)
 ✔ Json数据写入DataTemp代码块 ，数据留底以便报错好调试 @done(19-08-09 17:56)
