@@ -3,7 +3,7 @@
 </p>
 <h3 align="center"><a href="https://github.com/EDITeam/team-worknotes/tree/Harold.Duan">Quipu</a></h3>
 
-# Quipu ![progress](https://img.shields.io/badge/done-8/12-yellow.svg) ![version](https://img.shields.io/badge/version-1.0.7-blue.svg?cacheSeconds=2592000)
+# Quipu ![progress](https://img.shields.io/badge/done-8/12-yellow.svg) ![version](https://img.shields.io/badge/version-1.0.8-blue.svg?cacheSeconds=2592000)
 
 **Quipu** is my work notes project.
 
