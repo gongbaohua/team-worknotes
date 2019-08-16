@@ -21,3 +21,6 @@ Todo 周一:
 Todo 周二:
 ✔ 研究 Error creating bean with name 'salesOrderCancelJob': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.avatech.edi.salesorders.api.sapJob.SalesOrderCancelJob] from ClassLoader []原因 @started(19-08-13 09:00) @done(19-08-13 18:06) @lasted(32s)
 ✔ 学习解决依赖注入service,自动创建工厂找不到实例, @started(19-08-13 09:00) @done(19-08-13 18:07) @lasted(32s)
+Todo 周三:
+✔ 将项目全部接口部署到服务器测试发布,添加测试库查数据对应字段的调整 @started(19-08-14 09:00) @done(19-08-14 18:43) @lasted(49s)
+✔ 导出数据写最新功能文档,校验地址参数是否可用 @started(19-08-14 09:00) @done(19-08-14 18:46) @lasted(13s)
