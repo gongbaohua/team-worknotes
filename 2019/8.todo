@@ -39,3 +39,4 @@ week 4:
     ✔ 澳思优化 @started(19-08-28 08:24) @done(19-08-28 18:12) @lasted(9h48m5s)
     ✔ 字节跳动认款addon @done(19-08-28 18:12)
     ✔ 澳思 SBOAddon封装formEditChange方法 优化修改 @started(19-08-29 08:30) @done(19-08-29 17:40) @lasted(9h10m52s)
+    ✔ 欧文托普定时重启Application不能解决卡死情况，某一个时间段业务量会很大，现在处理处理完一批数据就重启 @started(19-08-30 08:30) @done(19-08-30 17:56) @lasted(9h26m24s)
