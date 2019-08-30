@@ -1,0 +1,4 @@
+#一商优化 9.8前完成----week1
+☐ 1、中间表行表转列表
+☐ 2、添加订单-发票中间表，记录订单与发票的关联关系（SDocEntry，IDocEntry，OpId）
+☐ 3、订单合并-订单的docentry，发票的docentry及当前操作的docentry插入记录表，然后条件回写更新订单中间表
