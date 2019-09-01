@@ -411,7 +411,46 @@
        3). 从zip，jar等归档文件中加载.class文件 
        4). 从专有数据库中提取.class文件 
        5). 将Java源文件动态编译为.class文件
+       泛型：
+       泛型出现的一个原因就是为了创造容器，容器就是要存放对象所使用的地方，所有程序在运行时都要求你持有一大堆对象
+       容器算的上最具有重用性的类库之一。
+       public class Automobile
+         {
+            private Automobile a;
+            public Continer(Automobile a){
+               this.a=a;
+            }
+            Automobile get(){
+               return a;
+            }
+         public class Holder {
+            private Object a;
+            public Holder2(Object a){
+               this.a =a;
 
+            }
+         public staic void main(String []args){
+
+         }
+         }
+         与其使用Object我们更喜欢暂时不指定类型
+         public class Holder3<T>{
+            private T a;
+            public Holder3(T a){
+               this.a =a;
+            }
+            public void set(T a){
+               this.a =a;
+               }
+            public T get(){
+               return a;
+            }
+         public staic void main(Stirng []args){
+               Holder3<Automible> h3 = new  Holder3<Automible>();
+               Auttomible a =h3.get()
+         }
+
+         }
 
 
 
