@@ -1,9 +1,19 @@
 #一商优化 9.8前完成----week1
-☐ 1、中间表行表转列表 @started(19-08-31 16:56)
+✔ 1、中间表行表转列表 @started(19-08-31 16:56) @done(19-09-03 18:43) @lasted(3d1h47m20s)
 ✔ 2、添加订单-发票中间表，记录订单与发票的关联关系（SDocEntry，IDocEntry） @started(19-08-31 16:56) @done(19-09-02 16:57) @lasted(2d1m21s)
 ✔ 3、订单合并-订单的docentry，发票的docentry及当前操作的docentry插入记录表，然后条件回写更新订单中间表 @started(19-09-02 16:56) @done(19-09-02 16:57) @lasted(1m22s)
 
-#法国电力
+# 法国电力
 ☐ 工资预览NNI号校验
 ☐ 准备测试环境（去掉审批流）接口流程测试
 
+# 培训内容讲解 9.15前完成
+☐ spring boot start example & ppt
+☐ code讲解ppt
+
+# EDI-Service（businessone-spring-boot-starter）
+☐ 框架搭建
+
+
+# 学习内容
+☐ spring cloud devliery
