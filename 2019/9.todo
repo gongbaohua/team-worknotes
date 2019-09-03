@@ -10,6 +10,7 @@
 # 培训内容讲解 9.15前完成
 ☐ spring boot start example & ppt
 ☐ code讲解ppt
+☐ maven讲解ppt
 
 # EDI-Service（businessone-spring-boot-starter）
 ☐ 框架搭建
@@ -17,3 +18,6 @@
 
 # 学习内容
 ☐ spring cloud devliery
+☐ nexus使用（配合codegen）
+
+
