@@ -8,9 +8,9 @@
 ☐ 准备测试环境（去掉审批流）接口流程测试
 
 # 培训内容讲解 9.15前完成
-☐ spring boot start example & ppt
+☐ spring boot example & ppt
 ☐ code讲解ppt
-☐ maven讲解ppt
+☐ maven讲解ppt @started(19-09-04 18:46)
 
 # EDI-Service（businessone-spring-boot-starter）
 ☐ 框架搭建
@@ -19,5 +19,8 @@
 # 学习内容
 ☐ spring cloud devliery
 ☐ nexus使用（配合codegen）
+
+# codegen
+✔ 代码生成添加swagger功能 @done(19-09-04 18:45)
 
 
