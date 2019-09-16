@@ -24,11 +24,21 @@
 ✔ 奈特接口重新梳理，确定接口参数 @done(19-09-06 18:12)
 
 # 学习内容
-☐ spring cloud devliery
+spring cloud devliery
+✔ spring cloud 之Erueka使用 @done(19-09-16 18:49)
+
+✔ spring cloud 服务消费之Feign组件使用 @done(19-09-16 18:49)
+☐ spring cloud consul组件使用 @started(19-09-16 18:49)
+☐ spring cloud nacos组件使用 @started(19-09-16 18:50)
+
 ☐ nexus使用（配合codegen）
 
 # codegen
 ✔ 代码生成添加swagger功能 @done(19-09-04 18:45)
+
+☐ 标准服务命名规则确认 @started(19-09-16 18:50)
+
+
 
 
 
