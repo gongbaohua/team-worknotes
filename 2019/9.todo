@@ -26,8 +26,10 @@
 # 学习内容
 spring cloud devliery
 ✔ spring cloud 之Erueka使用 @done(19-09-16 18:49)
-
 ✔ spring cloud 服务消费之Feign组件使用 @done(19-09-16 18:49)
+☐ spring cloud hystrix熔断器组件使用 @started(19-09-17 09:40)
+☐ spring cloud zuul服务网关组件使用 @started(19-09-17 09:40)
+
 ☐ spring cloud consul组件使用 @started(19-09-16 18:49)
 ☐ spring cloud nacos组件使用 @started(19-09-16 18:50)
 
@@ -36,7 +38,7 @@ spring cloud devliery
 # codegen
 ✔ 代码生成添加swagger功能 @done(19-09-04 18:45)
 
-☐ 标准服务命名规则确认 @started(19-09-16 18:50)
+✔ 标准服务命名规则确认 @started(19-09-16 18:50) @done(19-09-18 09:39) @lasted(1d14h49m41s)
 
 
 
