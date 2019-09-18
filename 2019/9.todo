@@ -1,4 +1,4 @@
-#一商优化 9.8前完成----week1
+#一商优化 9.8前完成
 ✔ 1、中间表行表转列表 @started(19-08-31 16:56) @done(19-09-03 18:43) @lasted(3d1h47m20s)
 ✔ 2、添加订单-发票中间表，记录订单与发票的关联关系（SDocEntry，IDocEntry） @started(19-08-31 16:56) @done(19-09-02 16:57) @lasted(2d1m21s)
 ✔ 3、订单合并-订单的docentry，发票的docentry及当前操作的docentry插入记录表，然后条件回写更新订单中间表 @started(19-09-02 16:56) @done(19-09-02 16:57) @lasted(1m22s)
@@ -28,7 +28,8 @@ spring cloud devliery
 ✔ spring cloud 之Erueka使用 @done(19-09-16 18:49)
 ✔ spring cloud 服务消费之Feign组件使用 @done(19-09-16 18:49)
 ☐ spring cloud hystrix熔断器组件使用 @started(19-09-17 09:40)
-☐ spring cloud zuul服务网关组件使用 @started(19-09-17 09:40)
+✔ spring cloud zuul服务网关组件使用 @started(19-09-17 09:40) @done(19-09-18 18:14) @lasted(1d8h34m57s)
+✔ spring cloud config配置中心组件使用 @started(19-09-18 18:15) @done(19-09-18 18:15) @lasted(22s)
 
 ☐ spring cloud consul组件使用 @started(19-09-16 18:49)
 ☐ spring cloud nacos组件使用 @started(19-09-16 18:50)
