@@ -39,5 +39,9 @@ Todo Monday:
 Todo Tuesday:
 ✔ 欠款接口修改传递数组参数格式,返回欠款信息 @started(19-09-17 09:00) @done(19-09-17 19:43) @lasted(31s)
 ✔ 修改参考文档,提交详细说明 @started(19-09-17 09:00) @done(19-09-17 19:44) @lasted(32s)
-
-
+Todo Thursday:
+✔ 给商品信息增加行,确定商品的价格定义 @started(19-09-19 09:00) @done(19-09-19 18:19) @lasted(53s)
+✔ 修改message返回信息,增强可读性 @started(19-09-19 09:00) @done(19-09-19 18:21) @lasted(54s)
+Todo Friday:
+✔ 整理全部接口,逐个测试检测bug @started(19-09-20 09:00) @done(19-09-20 18:56) @lasted(51s)
+✔ 结合接口返回信息,统一最后文档 @started(19-09-20 09:00) @done(19-09-20 18:57) @lasted(46s)
