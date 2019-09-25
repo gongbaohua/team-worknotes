@@ -45,3 +45,14 @@ Todo Thursday:
 Todo Friday:
 ✔ 整理全部接口,逐个测试检测bug @started(19-09-20 09:00) @done(19-09-20 18:56) @lasted(51s)
 ✔ 结合接口返回信息,统一最后文档 @started(19-09-20 09:00) @done(19-09-20 18:57) @lasted(46s)
+Todo Monday:
+✔ 测试修改完后所有接口是否存在BUG @started(19-09-23 09:00) @done(19-09-23 18:04) @lasted(13s)
+✔ 同步服务代码与本地一致 @started(19-09-23 09:00) @done(19-09-23 18:04) @lasted(11s)
+Todo Tuesday:
+✔ 备份所有接口信息,更新War文件 @started(19-09-24 09:00) @done(19-09-24 18:57) @lasted(49s)
+✔ 处理发票下客户旗下单子没有商品信息的异常 @started(19-09-24 09:00) @done(19-09-24 18:58) @lasted(59s)
+✔ 做个测试客户提供客户付款测试 @started(19-09-24 09:00) @done(19-09-24 18:58) @lasted(2s)
+Todo Wednesday:
+✔ 参加培训,了解报销流程,工单填报方式 @started(19-09-25 09:00) @done(19-09-25 18:51) @lasted(53s)
+✔ 了解相关项目流程,ITP下发项目  TST交接项目 @started(19-09-25 09:00) @done(19-09-25 18:53) @lasted(24s)
+✔ down下MDM项目学习看ADDON操作收手册,明白MDM下发ADDON @started(19-09-25 09:00) @done(19-09-25 18:55) @lasted(50s)
