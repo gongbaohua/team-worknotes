@@ -4,7 +4,7 @@
 ✔ 3、订单合并-订单的docentry，发票的docentry及当前操作的docentry插入记录表，然后条件回写更新订单中间表 @started(19-09-02 16:56) @done(19-09-02 16:57) @lasted(1m22s)
 
 # 法国电力
-☐ 工资预览NNI号校验 @started(19-09-24 09:36)
+✔ 工资预览NNI号校验，AD域账号校验 @started(19-09-24 09:36) @done(19-09-26 09:38) @lasted(2d2m7s)
 ✔ 准备测试环境（去掉审批流）接口流程测试 @started(19-09-10 20:42) @done(19-09-12 21:43) @lasted(2d1h1m19s)
 ✔ 采购草稿生成正式单据测试 @done(19-09-10 20:48)
 ✔ 付款单草稿生成正式单据测试 @done(19-09-12 21:43)
@@ -12,6 +12,7 @@
 ✔ 正式环境脚本整理 @started(19-09-10 20:48) @done(19-09-10 20:48) @lasted(29s)
 ✔ 法国电力招商银行接口上线 @started(19-09-19 19:30) @done(19-09-19 19:30) @lasted(28s)
 ✔ 法国电力招商银行接口直接代发他行支付调整 @done(19-09-23 19:30)
+☐ 法国电力审批流迁移后存储过程控制更新 @started(19-09-26 09:38)
 
 # 培训内容讲解 9.15前完成
 ☐ spring boot example & ppt
@@ -33,7 +34,7 @@ spring cloud devliery
 ✔ spring cloud config配置中心组件使用 @started(19-09-18 18:15) @done(19-09-18 18:15) @lasted(22s)
 
 ☐ spring cloud consul组件使用 @started(19-09-16 18:49)
-☐ spring cloud nacos组件使用 @started(19-09-16 18:50)
+✔ spring cloud nacos组件使用 @started(19-09-16 18:50) @done(19-09-26 09:37) @lasted(1w2d14h47m55s)
 
 ☐ nexus使用（配合codegen）
 
