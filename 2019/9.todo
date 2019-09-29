@@ -12,7 +12,7 @@
 ✔ 正式环境脚本整理 @started(19-09-10 20:48) @done(19-09-10 20:48) @lasted(29s)
 ✔ 法国电力招商银行接口上线 @started(19-09-19 19:30) @done(19-09-19 19:30) @lasted(28s)
 ✔ 法国电力招商银行接口直接代发他行支付调整 @done(19-09-23 19:30)
-☐ 法国电力审批流迁移后存储过程控制更新 @started(19-09-26 09:38)
+✔ 法国电力审批流迁移后存储过程控制更新 @started(19-09-26 09:38) @done(19-09-29 18:25) @lasted(3d8h47m24s)
 
 # 培训内容讲解 9.15前完成
 ☐ spring boot example & ppt
@@ -33,7 +33,7 @@ spring cloud devliery
 ✔ spring cloud zuul服务网关组件使用 @started(19-09-17 09:40) @done(19-09-18 18:14) @lasted(1d8h34m57s)
 ✔ spring cloud config配置中心组件使用 @started(19-09-18 18:15) @done(19-09-18 18:15) @lasted(22s)
 
-☐ spring cloud consul组件使用 @started(19-09-16 18:49)
+✔ spring cloud consul组件使用 @started(19-09-16 18:49) @done(19-09-29 18:25) @lasted(1w5d23h36m39s)
 ✔ spring cloud nacos组件使用 @started(19-09-16 18:50) @done(19-09-26 09:37) @lasted(1w2d14h47m55s)
 
 ☐ nexus使用（配合codegen）
