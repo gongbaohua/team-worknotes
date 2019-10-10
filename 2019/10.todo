@@ -4,4 +4,4 @@
 ☐ 2019-10-9
 ✔ 拉取Docker镜像包装服务注册Consul @done(19-10-09 17:46)
 ☐ 2019-10-10
-✔ 研究Doaker ,marshmallow序列化语法， @done(19-10-10 17:58)
+✔ 研究Doaker ,marshmallow序列化语法,Consul中注册在容器中运行的服务 @done(19-10-10 17:58)
