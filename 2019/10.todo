@@ -12,4 +12,10 @@ Todo Saturday:
 ✔ 看代码熟悉业务层次逻辑 @started(19-10-12 09:00) @done(19-10-12 18:14) @lasted(3s)
 Todo Monday:
 ✔ 看HarBourBiomed项目了解serverlayer过程 @started(19-10-14 09:00) @done(19-10-14 18:21) @lasted(40s)
-✔ 看巴特接口文档熟悉开发要求 @started(19-10-14 09:00) @done(19-10-14 18:26) @lasted(19s)
+✔ 看巴特接口文档熟悉开发要求 @started(19-10-14 09:00) @done(19-10-14 18:2工作6) @lasted(19s)
+Todo Tuesday:
+✔ 修改销售订单数据结构,销售预测单Xml @started(19-10-15 09:00) @done(19-10-15 18:45) @lasted(51s)
+✔ 修改交货订单数据结构,工作令Xml @started(19-10-15 09:00) @done(19-10-15 18:47) @lasted(50s)
+✔ 写入物料数据结构，物料组Xml @started(19-10-15 09:00) @done(19-10-15 18:48) @lasted(59s)
+✔ 计量单位xml @started(19-10-15 09:00) @done(19-10-15 18:49) @lasted(36s)
+✔ 生成物料接口,配置环境 @started(19-10-15 09:00) @done(19-10-15 18:50) @lasted(25s)
