@@ -13,3 +13,6 @@ week2
 ✔ 法国电力上线支持 @done(19-10-14 18:53)
 ✔ spring boot + mybatis多数据库多数据源动态切换demo实现 @started(19-10-14 18:53) @done(19-10-14 18:53) @lasted(54s)
 ☐ spring boot + mybatis多数据源动态加载实现 @started(19-10-14 18:54)
+
+✔ redis docker安装 @done(19-10-15 18:38)
+☐ spring boot + redis操作 @started(19-10-15 18:38)
