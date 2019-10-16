@@ -19,3 +19,7 @@ Todo Tuesday:
 ✔ 写入物料数据结构，物料组Xml @started(19-10-15 09:00) @done(19-10-15 18:48) @lasted(59s)
 ✔ 计量单位xml @started(19-10-15 09:00) @done(19-10-15 18:49) @lasted(36s)
 ✔ 生成物料接口,配置环境 @started(19-10-15 09:00) @done(19-10-15 18:50) @lasted(25s)
+Todo Wednesday:
+✔ 物料主数据信息，通过接口到web中 @started(19-10-16 09:00) @done(19-10-16 18:56) @lasted(16s)
+✔ 对比Serverlayer与DI,总结写法,学习layer机制 @started(19-10-16 09:00) @done(19-10-16 18:59) @lasted(56s)
+✔ 更改Fornet存储过程,更新显示物料实时主数据、 @done(19-10-16 19:01)
