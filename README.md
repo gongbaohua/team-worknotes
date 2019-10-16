@@ -18,7 +18,7 @@
 
 :star: [Zero.Zhang's Notes](https://github.com/EDITeam/team-worknotes/tree/Zero.Zhang)
 
-:star: [Abe.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Abe.Wang)
+:star2: [Abe.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Abe.Wang)
 
 :star2: [Aaron.Feng's Notes](https://github.com/EDITeam/team-worknotes/tree/Aaron.Feng)
 
