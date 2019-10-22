@@ -27,8 +27,12 @@ Todo Friday:
 ✔ MDM配置文件上传 @started(19-10-18 09:00) @done(19-10-18 18:18) @lasted(11s)
 ✔ 测试欲写销售单生成,传输Json @done(19-10-18 18:19)
 ✔ 了解SapHANA关系结构 @started(19-10-18 09:00) @done(19-10-18 18:21) @lasted(1s)
-Todo Tuesday:
+Todo Monday:
 ✔ 更改巴特Result返回类型及方法 @started(19-10-21 09:00) @done(19-10-21 18:49) @lasted(44s)
 ✔ 生成销售订单业务层处理,修改生成参数 @done(19-10-21 18:52)
 ✔ 整理bart多层模板修改pom,配置本地maven仓库 @started(19-10-21 09:00) @done(19-10-21 18:54) @lasted(26s)
 ✔ 服务器配置检测mdm下发数据 @started(19-10-21 09:00) @done(19-10-21 18:59) @lasted(38s)
+Todo Tuesday:
+✔ 物料主数据传输接口到web系统的实现 @started(19-10-22 09:00) @done(19-10-22 18:09) @lasted(1s)
+✔ 物料组数据传输接口到web系统的实现 @done(19-10-22 18:10)
+✔ 计量单位主数据传输接口到web系统的实现 @done(19-10-22 18:12)
