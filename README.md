@@ -49,7 +49,7 @@
 
 ## About
 
-[***Life Music***](http://music.163.com/song/media/outer/url?id=25730757.mp3)
+[***Life Music***](https://www.kugou.com/song/#hash=E440725B71CC0EBEFD133E49417FBEAB&album_id=1077183)
 
 [Goto Top](#readme) 
 
