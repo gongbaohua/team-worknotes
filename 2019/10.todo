@@ -21,3 +21,6 @@ week2
 
 #week3
 ☐ 网关服务权限设计及方案收集 @started(19-10-21 18:26)
+✔ 服务网关：spring cloud gateway；鉴权认证：OAuth 2.0 + JWT；资料收集 @done(19-10-23 17:46)
+☐ 了解OAuth 2.0相关概念，理清四种授权模式并做出相应demo @started(19-10-23 17:46)
+
