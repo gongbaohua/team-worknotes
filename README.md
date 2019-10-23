@@ -2,29 +2,14 @@
 
 ## Contents
 
-:star: [Harold.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Harold.Duan)
+### ***Vote***
 
-:star: [Pancy.Fan's Notes](https://github.com/EDITeam/team-worknotes/tree/Pancy.Fan)
++ Vote for gogs upgrade
 
-:star: [Aaton.Kang's Notes](https://github.com/EDITeam/team-worknotes/tree/Aaton.Kang)
+🎉Vote your😎 hobbies🎉
 
-:star: [Shuo.Liu's Notes](https://github.com/EDITeam/team-worknotes/tree/Shuo.Liu)
-
-:star: [Coffee.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Coffee.Wang)
-
-:star: [Crystal.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Crystal.Duan)
-
-:star2: [Kris.Jiao's Notes](https://github.com/EDITeam/team-worknotes/tree/Kris.Jiao)
-
-:star: [Zero.Zhang's Notes](https://github.com/EDITeam/team-worknotes/tree/Zero.Zhang)
-
-:star2: [Abe.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Abe.Wang)
-
-:star2: [Aaron.Feng's Notes](https://github.com/EDITeam/team-worknotes/tree/Aaron.Feng)
-
-:star: [Liusky.Liu's Notes](https://github.com/EDITeam/team-worknotes/tree/Liusky.Liu)
-
-:star: [Sense.Gong's Notes](https://github.com/EDITeam/team-worknotes/tree/Sense.Gong)
+[![](https://api.gh-polls.com/poll/01DQW7NWXCY71Y5QFK6JSJS6KY/Agree)](https://api.gh-polls.com/poll/01DQW7NWXCY71Y5QFK6JSJS6KY/Agree/vote)
+[![](https://api.gh-polls.com/poll/01DQW7NWXCY71Y5QFK6JSJS6KY/%E2%80%9CDisagree%E2%80%9D)](https://api.gh-polls.com/poll/01DQW7NWXCY71Y5QFK6JSJS6KY/%E2%80%9CDisagree%E2%80%9D/vote)
 
 ## Teamers
 
