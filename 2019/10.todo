@@ -22,5 +22,12 @@ week2
 #week3
 ☐ 网关服务权限设计及方案收集 @started(19-10-21 18:26)
 ✔ 服务网关：spring cloud gateway；鉴权认证：OAuth 2.0 + JWT；资料收集 @done(19-10-23 17:46)
-☐ 了解OAuth 2.0相关概念，理清四种授权模式并做出相应demo @started(19-10-23 17:46)
+✔ 了解OAuth 2.0相关概念，理清四种授权模式并做出相应demo @started(19-10-23 17:46) @done(19-10-25 18:34) @lasted(2d48m37s)
+
+✔ consul组件docker集群方式发布 @done(19-10-25 18:36)
+☐ Spring Cloud API GateWay网关集成OAuth 2.0 和 JWT 实现统一身份验证平台demo @started(19-10-25 18:35)
+
+
+☐ consul常用命令总结，及各个组件了解和梳理 @started(19-10-25 18:38)
+☐ 多数据源动态切换整合成start项目
 
