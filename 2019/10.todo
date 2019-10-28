@@ -29,11 +29,15 @@ week 1-3:
         最终渲染给index.html是应为ionic为单页应用。
 
 week 4:
-    ☐ 应用之间choose list需求实现。
-    ☐ 应用壳主功能页面若采用点击应用弹出层显示模块需求实现。
     ✔ 应用壳首页Index.html使用ionic官方loading controller使用尝试。     --结论：无法使用 @started(19-10-24 18:07) @done(19-10-25 18:07) @lasted(1d36s)
         为保持统一，如果尝试失败则只能自行封装一个loading在各页面调用。
-    ☐ 封装自定义loading组件。 @started(19-10-25 18:08)
+    ✔ 封装自定义loading组件。 @started(19-10-25 18:08) @done(19-10-28 18:04) @lasted(2d23h56m3s)
+        还是使用ionic提供loading比较好，性能流畅，整体风格统一。
+
+week 5:
+    ✔ 抓取ionic loading样式源代码并在Index.html中实现。 @done(19-10-28 18:05)
+    ☐ 应用之间choose list需求实现。
+    ☐ 应用壳主功能页面若采用点击应用弹出层显示模块需求实现。
 
     
 
