@@ -7,3 +7,6 @@
 ✔ docker 培训 @done(19-11-05 17:43)
 ☐ 2019-11-5
 ✔ dockerfile 打包部署 @done(19-11-05 17:44)
+☐ 2019-11-6
+✔ 编写dlckerfile基于python-image打包flask项目测试 @done(19-11-06 17:33)
+✔ 研究docker-httpd部署python flask接口 @done(19-11-06 17:33)
