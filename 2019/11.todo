@@ -3,4 +3,6 @@
 ✔ 将文件上传目录和代码生成保存目录切换为相对路径 @done(19-11-05 18:20)
 
 ✔ 实现服务docker发布 @done(19-11-06 20:13)
-☐ linux发布codegen后，数据结构上传有bug，待解决 @started(19-11-06 20:14)
+✔ linux发布codegen后，数据结构上传有bug，待解决 @started(19-11-06 20:14) @done(19-11-07 18:24) @lasted(22h10m25s)
+☐ linux docker发布codegen生成代码无模块文件 @started(19-11-07 18:25)
+✔ linux开发环境安装 @done(19-11-07 18:24)
