@@ -5,4 +5,13 @@
 ✔ 实现服务docker发布 @done(19-11-06 20:13)
 ✔ linux发布codegen后，数据结构上传有bug，待解决 @started(19-11-06 20:14) @done(19-11-07 18:24) @lasted(22h10m25s)
 ☐ linux docker发布codegen生成代码无模块文件 @started(19-11-07 18:25)
+ ☐ 原因已查到，待解决。
 ✔ linux开发环境安装 @done(19-11-07 18:24)
+
+✔ 法国电力报销单同步失败bug修复 @done(19-11-08 18:16)
+☐ codegen支持视图查询
+☐ codegen增加sql语句创建功能
+☐ codegen添加存储过程处理功能
+☐ codegen支持自动生成接口文档功能
+
+
