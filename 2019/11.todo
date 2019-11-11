@@ -9,7 +9,7 @@
 ✔ linux开发环境安装 @done(19-11-07 18:24)
 
 ✔ 法国电力报销单同步失败bug修复 @done(19-11-08 18:16)
-☐ codegen支持视图查询
+✔ codegen支持视图查询 @done(19-11-11 18:05)
 ☐ codegen增加sql语句创建功能
 ☐ codegen添加存储过程处理功能
 ☐ codegen支持自动生成接口文档功能
