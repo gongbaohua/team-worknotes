@@ -26,3 +26,6 @@
 ✔ docker + apache + wsgi flask项目部署 @done(19-11-13 17:50)
 ☐ 2019-11-14
 ✔ 研究docker镜像容器中python wsgi网关配置 @done(19-11-14 17:35)
+☐ 2019-11-15
+✔ Dockerfile 打包httpd + wsgi + flask镜像 @done(19-11-15 17:53)
+✔ mdm接口调错 @done(19-11-15 17:53)
