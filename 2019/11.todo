@@ -8,3 +8,5 @@ week2
 week3
 ✔ 测试巴特代码，测试使用layer生成单据 @started(19-11-11 18:01) @done(19-11-11 18:01) @lasted(42s)
 ✔ 测试巴特layer生成单据到B1系统 @started(19-11-13 18:10) @done(19-11-13 18:10) @lasted(56s)
+week4
+✔ 测试巴特推送接口进行json和数据库字段校验 @started(19-11-18 18:03) @done(19-11-18 18:03) @lasted(39s)
