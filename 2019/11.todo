@@ -29,3 +29,13 @@
 ☐ 2019-11-15
 ✔ Dockerfile 打包httpd + wsgi + flask镜像 @done(19-11-15 17:53)
 ✔ mdm接口调错 @done(19-11-15 17:53)
+
+☐ 3.week
+☐ 2019-11-18
+✔ Docker flask+mod_wsgi 守护进程模式容器部署 @done(19-11-20 17:17)
+✔ Docker Nginx+uwsgi部署项目 @done(19-11-20 17:18)
+☐ 2019-11-19
+✔ 研究mod_wsgi + flask Docker部署 @done(19-11-20 17:19)
+☐ 2019-11-20
+✔ mod-wsgi + flask python脚本Copy到容器内 采用httpd-vhosts.conf文件多端口部署容器 @done(19-11-20 17:21)
+✔ 研究容器挂载到宿主机Apache配置文件更新配置 @done(19-11-20 17:21)
