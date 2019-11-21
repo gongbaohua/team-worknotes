@@ -39,3 +39,6 @@
 ☐ 2019-11-20
 ✔ mod-wsgi + flask python脚本Copy到容器内 采用httpd-vhosts.conf文件多端口部署容器 @done(19-11-20 17:21)
 ✔ 研究容器挂载到宿主机Apache配置文件更新配置 @done(19-11-20 17:21)
+☐ 2019-11-21
+✔ 部署python flask接口到docker虚拟机中 @done(19-11-21 17:57)
+✔ 编写docker 部署步骤文档 @done(19-11-21 17:57)
