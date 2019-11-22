@@ -26,6 +26,9 @@
 ✔ 开源接口文档管理工具搜索选型 @done(19-11-19 18:40)
 ✔ showdoc环境搭建，codegen支持接口文档自动生成 @started(19-11-19 18:40) @done(19-11-20 18:34) @lasted(23h54m49s)
 
+✔ 实现consul采用docker方式集群部署，spring cloud consul实现服务注册和发现 @done(19-11-22 19:20)
+☐ codegen集成spring cloud consul @started(19-11-22 19:21)
+
 
 
 
