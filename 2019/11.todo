@@ -23,6 +23,14 @@ week 4:
     ✔ ionic3 没有提供符合要求的弹出框，如何自定义一个？（功能页面点击模块弹出功能list框） @done(19-11-22 18:43)
         暂时取消。未来可能采用vue。
     ✔ 广西大华条码移动端项目蓝图设计。 @done(19-11-22 18:42)
+    ✔ vue语言了解： @done(19-11-23 16:54)
+        1、关于vue搭配的UI框架（https://www.jianshu.com/p/1e05c8d68407）了解：大概组件与ionic相差无几，但github中凡是较美观的项目大部分都是通过自定义css实现（https://github.com/FourLeafClover/CNBlogApp/blob/master/src/views/NewsDetail.vue）。
+        vue饿了么项目练习：https://github.com/bailicangdu/vue2-elm，示例：http://cangdu.org/elm/#/home
+        angular饿了么项目练习：https://github.com/nuonuoge/ionic4_angular6_elm
+            vue开发者部分推荐Element和vux。
+        2、与cordova整合：新建cordova项目，再在cordova项目中新建vue项目，具体有博客介绍。
+            vue扫描：可通过H5 plus或者cordova插件实现。
+        3、性能问题：目前未找到可信度较高的答案，抽时间自己试试。
 
 
 
