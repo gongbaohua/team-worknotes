@@ -51,3 +51,9 @@
 ☐ 2019-11-26
 ✔ 研究dockerfile 容器启动COPY配置本地 @done(19-11-26 17:34)
 ✔ apache映射到本地，配置完 apache报错 @done(19-11-26 17:35)
+☐ 2019-11-27
+✔ docker 映射apache本地数据卷，宿主机内修改项目和apache配置文件 @done(19-11-28 18:03)
+✔ 研究docker compose @done(19-11-28 18:03)
+☐ 2019-11-28
+✔ 编写docker compose编排容器 @done(19-11-28 18:05)
+编写Gogos docker文档
