@@ -30,6 +30,7 @@
 ✔ codegen集成spring cloud consul @started(19-11-22 19:21) @done(19-11-26 16:56) @lasted(3d21h35m20s)
 
 ✔ 服务网关实现审计日志 @started(19-11-26 16:56) @done(19-11-28 18:47) @lasted(2d1h51m11s)
+☐ 调整codegen，增加单元测试 @started(19-11-29 19:51)
 ☐ 服务网关动态路由 @started(19-11-27 18:05)
 ☐ codegen生成Dahupt类型项目增加动态连接数据库功能
 
