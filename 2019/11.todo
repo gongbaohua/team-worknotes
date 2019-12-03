@@ -47,6 +47,7 @@
 ✔ 宿主机配置docker apache配置 @done(19-11-22 18:04)
 ☐ 2019-11-23
 ✔ Dockerfile mod_wsgi+apache部署flask培训 @done(19-11-26 17:33)
+
 ☐ 4.week
 ☐ 2019-11-26
 ✔ 研究dockerfile 容器启动COPY配置本地 @done(19-11-26 17:34)
