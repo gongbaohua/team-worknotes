@@ -1,5 +1,5 @@
 #week 1
-☐ 调整codegen，增加单元测试 @started(19-11-29 19:51)
+✔ 调整codegen，增加单元测试 @started(19-11-29 19:51) @done(19-12-03 19:00) @lasted(3d23h9m9s)
 ☐ 服务网关动态路由 @started(19-11-27 18:05)
 ☐ codegen生成Dahupt类型项目增加动态连接数据库功能
 
