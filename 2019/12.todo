@@ -3,4 +3,7 @@
 ☐ 服务网关动态路由 @started(19-11-27 18:05)
 ☐ codegen生成Dahupt类型项目增加动态连接数据库功能
 
+
 ✔ codegen生成dahupt类型项目，增加repository、service和provider层单元测试资源文件 @done(19-12-02 19:10)
+✔ 修复codegen生成sql脚本错误 @done(19-12-04 18:36)
+☐ codengen生成mapper添加分页功能 @started(19-12-04 18:36)
