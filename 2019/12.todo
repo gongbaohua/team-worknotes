@@ -9,3 +9,13 @@ Todo Tu:
 ✔ 调试maven打jar包 @done(19-12-03 18:23)
 ✔ 调试docker外部宿主机配置,调通接口返回数据 @done(19-12-03 18:24)
 ✔ 研究容器编排一件启动shell命令 @done(19-12-03 18:25)
+Todo We:
+✔ 测试bate保存销售单接口 @started(19-12-04 18:06) @done(19-12-04 18:06) @lasted(15s)
+✔ 测试bate保存交货单接口 @done(19-12-04 18:06)
+✔ 测试bate保存预测单接口 @done(19-12-04 18:07)
+✔ dockercompose编排的实现 @done(19-12-04 18:07)
+Todo Th:
+✔ 创建maven工程,copy服务器 @started(19-12-05 09:00) @done(19-12-05 18:08) @lasted(41s)
+✔ 编写batejson数据 @done(19-12-05 18:09)
+✔ 试着war包运行tomcat挂载数据卷,测数访问 @done(19-12-05 18:10)
+✔ 用springboot官方Spring Security验证登录 @done(19-12-05 18:11)
