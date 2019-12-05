@@ -7,3 +7,7 @@
 ✔ codegen生成dahupt类型项目，增加repository、service和provider层单元测试资源文件 @done(19-12-02 19:10)
 ✔ 修复codegen生成sql脚本错误 @done(19-12-04 18:36)
 ☐ codengen生成mapper添加分页功能 @started(19-12-04 18:36)
+✔ codegen生成后服务注册发现功能bug修改 @done(19-12-05 18:43)
+
+☐ SBO标准服务组件DI连接实现 @started(19-12-05 18:43)
+
