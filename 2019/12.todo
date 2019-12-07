@@ -3,8 +3,9 @@ week 1:
     ☐ 任务管理系统移动端原型图制作。 @started(19-12-03 18:16)
     ☐ cordova打包ipa。
     ☐ 申请苹果开发者签名。
-    
-
+    ✔ 经研究与测试，ng-zorro-mobile不支持ionic3，ionic3 集成极光推送只能支持android7以下，ionic4 集成激光推送只能支持android7以上，目前PDA android版本为5.1.1。@done(19-12-05 17:39)
+    ✔ ionic3 移动端极光推送使用研究。 @done(19-12-06 18:31)
+    ✔ ionic3 移动端极光推送消息展示到终端通知栏尝试。 @done(19-12-07 18:46)
 
 
 
