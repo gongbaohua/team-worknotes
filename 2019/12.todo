@@ -17,4 +17,7 @@
 ☐ 2.week
 ☐ 2019-12-10
 ✔ 研究docker-machine,docker-swarm，docker-compose命令写入docker-training文档 @done(19-12-10 17:31)
- 
+☐ 2019-12-11
+✔ 研究dockerswarm命令,编写swarm文档 @done(19-12-12 18:05)
+☐ 2019-12-12
+✔ 创建docker集群，发布service ,  本地上传镜像。 @done(19-12-12 18:05)
