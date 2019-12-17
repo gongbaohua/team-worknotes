@@ -21,3 +21,10 @@
 ✔ 研究dockerswarm命令,编写swarm文档 @done(19-12-12 18:05)
 ☐ 2019-12-12
 ✔ 创建docker集群，发布service ,  本地上传镜像。 @done(19-12-12 18:05)
+☐ 2019-12-13
+✔ docker service命令 @done(19-12-17 18:01)
+☐ 3.week
+☐ 2019-12-16
+✔ 研究docker stack @done(19-12-17 18:03)
+☐ 2019-12-17
+✔ 研究docker-compose stack发布服务 @done(19-12-17 18:03)
