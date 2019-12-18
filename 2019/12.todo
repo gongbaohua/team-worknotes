@@ -21,3 +21,5 @@ week 2:
 week 3:
     ✔ ionic3 新建项目实现图片放大查看。 @done(19-12-17 10:40)
     ✔ ionic3 新建项目实现自定义modal半屏显示，可用于评价等功能。 @done(19-12-17 18:17)
+    ✔ ionic4 新建项目引用ng-zorro-ant-mobile UI框架，步骤条使用示例。 @done(19-12-18 18:18)
+    ✔ cordova-barcodescanner(二维码扫描插件)仅支持XCode9以上。 @done(19-12-18 18:19)
