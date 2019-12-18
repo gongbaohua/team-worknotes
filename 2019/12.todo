@@ -12,8 +12,10 @@
 ✔ SBO标准服务组件DI连接实现 @started(19-12-05 18:43) @done(19-12-11 18:38) @lasted(5d23h55m28s)
 ✔ 法国电力银企直联审批更新问题处理 @done(19-12-06 19:54)
 
-☐ 平台统一鉴权设计及实践-采用spring cloud security outh2.0 + redis实现token存储及分发 @started(19-12-11 18:41)
+✔ 平台统一鉴权设计及实践-采用spring cloud security outh2.0 + redis实现token存储及分发 @started(19-12-11 18:41) @done(19-12-18 09:39) @lasted(6d14h58m39s)
 ✔ edi-framework模块简易封装 @done(19-12-12 20:24)
 
+☐ auth-server,usercenter服务搭建 @started(19-12-18 09:40)
+☐ codegen仓储层、api层调整✔ @done(19-12-18 09:40)
 
 
