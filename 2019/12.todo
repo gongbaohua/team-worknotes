@@ -28,3 +28,9 @@
 ✔ 研究docker stack @done(19-12-17 18:03)
 ☐ 2019-12-17
 ✔ 研究docker-compose stack发布服务 @done(19-12-17 18:03)
+☐ 2019-12-18
+✔ 了解nfs文件共享系统
+☐ 2019-12-19
+✔ 使用NFS做docker数据共享主机
+☐ 2019-12-20
+✔ nfs做docker集群数据共享, 使用stack发布docker 集群 Service @done(19-12-20 18:05)
