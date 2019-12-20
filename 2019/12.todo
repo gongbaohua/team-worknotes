@@ -23,3 +23,5 @@ week 3:
     ✔ ionic3 新建项目实现自定义modal半屏显示，可用于评价等功能。 @done(19-12-17 18:17)
     ✔ ionic4 新建项目引用ng-zorro-ant-mobile UI框架，步骤条使用示例。 @done(19-12-18 18:18)
     ✔ cordova-barcodescanner(二维码扫描插件)仅支持XCode9以上。 @done(19-12-18 18:19)
+    ✔ ioinc4 自定义tab页面，中间tab为居中圆形凸出按钮页面实现。 @done(19-12-20 18:16)
+    ☐ macos系统打包安卓apk尝试。 @started(19-12-20 18:17)
