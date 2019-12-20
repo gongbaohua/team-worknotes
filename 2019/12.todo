@@ -18,7 +18,11 @@
 ☐ auth-server,usercenter服务搭建 @started(19-12-18 09:40)
 ☐ codegen仓储层、api层调整✔ @done(19-12-18 09:40)
 
+✔ 用户中心服务完善 @done(19-12-20 18:31)
+
 ☐ codegen服务查询分页框架搜索
 ☐ codegen服务查询条件框架搜索
+
+☐ spring cloud nacos配置中心实现 @started(19-12-20 18:32)
 
 
