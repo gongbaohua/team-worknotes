@@ -24,4 +24,9 @@ week 3:
     ✔ ionic4 新建项目引用ng-zorro-ant-mobile UI框架，步骤条使用示例。 @done(19-12-18 18:18)
     ✔ cordova-barcodescanner(二维码扫描插件)仅支持XCode9以上。 @done(19-12-18 18:19)
     ✔ ioinc4 自定义tab页面，中间tab为居中圆形凸出按钮页面实现。 @done(19-12-20 18:16)
-    ☐ macos系统打包安卓apk尝试。 @started(19-12-20 18:17)
+    ✔ macos系统打包安卓apk尝试。 @started(19-12-20 18:17) @done(19-12-23 21:25) @lasted(3d3h8m35s)
+
+week 4:
+    ✔ ionic4 输入框块级效果尝试。 @done(19-12-23 21:26)
+    ✔ ionic4 自定义物理回退键监听（ionic4 默认不监听物理回退键）。 @done(19-12-23 21:27)
+    ✔ ionic4 项目最小化尝试。 @done(19-12-23 21:27)
