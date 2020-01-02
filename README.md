@@ -2,21 +2,31 @@
 
 ## Contents
 
-[Harold.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Harold.Duan)
+:star: [Harold.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Harold.Duan)
 
-[Pancy.Fan's Notes](https://github.com/EDITeam/team-worknotes/tree/Pancy.Fan)
+:star: [Pancy.Fan's Notes](https://github.com/EDITeam/team-worknotes/tree/Pancy.Fan)
 
-[Aaton.Kang's Notes](https://github.com/EDITeam/team-worknotes/tree/Aaton.Kang)
+:star: [Aaton.Kang's Notes](https://github.com/EDITeam/team-worknotes/tree/Aaton.Kang)
 
-[Shuo.Liu's Notes](https://github.com/EDITeam/team-worknotes/tree/Shuo.Liu)
+:star: [Shuo.Liu's Notes](https://github.com/EDITeam/team-worknotes/tree/Shuo.Liu)
 
-[Coffee.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Coffee.Wang)
+:star: [Coffee.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Coffee.Wang)
 
-[Crystal.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Crystal.Duan)
+:star: [Crystal.Duan's Notes](https://github.com/EDITeam/team-worknotes/tree/Crystal.Duan)
 
-[Zero.Zhang's Notes](https://github.com/EDITeam/team-worknotes/tree/Zero.Zhang)
+:star2: [Kris.Jiao's Notes](https://github.com/EDITeam/team-worknotes/tree/Kris.Jiao)
 
-[Abe.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Abe.Wang)
+:star: [Zero.Zhang's Notes](https://github.com/EDITeam/team-worknotes/tree/Zero.Zhang)
+
+:star2: [Abe.Wang's Notes](https://github.com/EDITeam/team-worknotes/tree/Abe.Wang)
+
+:star2: [Aaron.Feng's Notes](https://github.com/EDITeam/team-worknotes/tree/Aaron.Feng)
+
+:star: [Liusky.Liu's Notes](https://github.com/EDITeam/team-worknotes/tree/Liusky.Liu)
+
+:star: [Sense.Gong's Notes](https://github.com/EDITeam/team-worknotes/tree/Sense.Gong)
+
+:star: [Xiudong.Yu's Notes](https://github.com/EDITeam/team-worknotes/tree/Xiudong.Yu)
 
 ## Teamers
 
@@ -30,8 +40,12 @@
   <a href="https://github.com/LsKeke"><img src="https://avatars1.githubusercontent.com/u/45222954?s=400&v=4" width="70" alt="Shuo.Liu" /></a>
   <a href="https://github.com/wangpenghuix"><img src="https://avatars3.githubusercontent.com/u/43561846?s=400&v=4" width="70" alt="Coffee.Wang" /></a>
   <a href="https://github.com/810688493"><img src="https://avatars1.githubusercontent.com/u/48113336?s=400&v=4" width="70" alt="Crystal.Duan" /></a>
+  <a href="https://github.com/MRJiaoWL" title="Goodman"><img src="https://avatars2.githubusercontent.com/u/46592171?s=400&v=4" width="70" alt="Kris.Jiao" /></a>
   <a href="https://github.com/okzhangyu"><img src="https://avatars0.githubusercontent.com/u/41094697?s=400&v=4" width="70" alt="Zero.Zhang" /></a>
   <a href="https://github.com/wanghaoAbe"><img src="https://avatars1.githubusercontent.com/u/47651011?s=400&v=4" width="70" alt="Abe.Wang" /></a>
+  <a href="https://github.com/fnglei" title="Goodman"><img src="https://avatars2.githubusercontent.com/u/48943894?s=400&v=4" width="70" alt="Aaron.Feng" /></a>
+  <a href="https://github.com/liuSky001"><img src="https://avatars2.githubusercontent.com/u/23123638?s=400&v=4" width="70" alt="Liusky.Liu" /></a>
+  <a href="https://github.com/gongbaohua"><img src="https://avatars2.githubusercontent.com/u/51986057?s=400&v=4" width="70" alt="Sense.Gong" /></a>
 </p>
 
 ## About
