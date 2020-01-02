@@ -26,6 +26,8 @@
 
 :star: [Sense.Gong's Notes](https://github.com/EDITeam/team-worknotes/tree/Sense.Gong)
 
+:star: [Xiudong.Yu's Notes](https://github.com/EDITeam/team-worknotes/tree/Xiudong.Yu)
+
 ## Teamers
 
 <h3 align="left">
